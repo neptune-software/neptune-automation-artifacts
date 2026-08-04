@@ -36,11 +36,29 @@
 	"reports": [],
 	"api_authentication": [],
 	"api_group": [],
-	"tile": [],
+	"tile": [
+		{
+			"id": "ef4f33f2-dda6-487f-80f3-cd598bb9c82e",
+			"description": null,
+			"name": "neptune-automation-01-1008-tile-c101"
+		}
+	],
 	"tile_layout": [],
-	"category": [],
+	"category": [
+		{
+			"id": "c9d6f715-e94c-4dee-acec-1d4b055cfbee",
+			"description": null,
+			"name": "neptune-automation-01-1008-tilegroup"
+		}
+	],
 	"tilegroup_layout": [],
-	"launchpad": [],
+	"launchpad": [
+		{
+			"id": "6d8c41ce-704e-4770-b15c-bec0fb7f3809",
+			"name": "neptune-automation-01-1008-launchpad",
+			"description": null
+		}
+	],
 	"launchpad_layout": [],
 	"certificates": [],
 	"role": [],
