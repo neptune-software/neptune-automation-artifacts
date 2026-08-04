@@ -1,0 +1,54 @@
+{
+	"id": "08dddcaf-10ec-4ac2-b275-7677753d2a9d",
+	"createdAt": "2026-04-10T13:34:39.707Z",
+	"createdBy": "neptune_bot_agent",
+	"fields": [
+		{
+			"id": "2edf63f9-590a-4cd2-eebe-8cec7a3648ff",
+			"fieldName": "name",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": false,
+			"description": "Employee's name"
+		},
+		{
+			"id": "d4862191-a1e6-4991-8c45-3a60f50d62da",
+			"fieldName": "age",
+			"fieldType": "integer",
+			"isUnique": false,
+			"isNullable": false,
+			"description": "Employee's age"
+		},
+		{
+			"fieldName": "rowVector",
+			"fieldType": "vector",
+			"id": "06c1aae5-4fe8-4c6a-b74c-71acac15e55b",
+			"isNullable": true,
+			"isUnique": false,
+			"length": "1536"
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"vectorStoreConfig": {
+		"useVectorizer": true,
+		"embeddingModel": "01f0757d-9f29-4045-a152-c6ab1036b8c7",
+		"vectorizerColumns": [
+			"name",
+			"age",
+			"test1",
+			"test2"
+		],
+		"resultTemplate": "{name}'s age is {age}",
+		"vectorColumn": "rowVector"
+	},
+	"name": "neptune_automation_vectorized_table",
+	"description": null,
+	"ver": "26.08.04.2003",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"generationStrategy": "uuid",
+	"rolesRead": [],
+	"rolesWrite": []
+}

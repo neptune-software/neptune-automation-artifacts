@@ -26,7 +26,13 @@
 	"api": [],
 	"odataSource": [],
 	"odataMock": [],
-	"dictionary": [],
+	"dictionary": [
+		{
+			"id": "08dddcaf-10ec-4ac2-b275-7677753d2a9d",
+			"name": "neptune_automation_vectorized_table",
+			"description": null
+		}
+	],
 	"jsclass": [],
 	"jsscript_group": [],
 	"theme": [],
