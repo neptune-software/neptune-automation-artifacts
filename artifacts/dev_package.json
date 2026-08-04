@@ -74,7 +74,13 @@
 	"wf_determination": [],
 	"wf_taskaction": [],
 	"theme_ui5": [],
-	"webapp": [],
+	"webapp": [
+		{
+			"id": "0288f904-a006-4043-86e3-924cd647b39b",
+			"name": "neptune_automation_app_documentation_a102",
+			"description": null
+		}
+	],
 	"ui5_control": [],
 	"ai_agent": [],
 	"ai_model": [
