@@ -1,0 +1,24 @@
+{
+	"id": "92255d36-6c4c-4e20-8344-cdde38a37681",
+	"createdAt": "2026-08-04T15:21:36.003Z",
+	"createdBy": "neptune_bot_agent",
+	"attributes": [],
+	"locales": [
+		{
+			"isoCode": "EN",
+			"locale": "en"
+		}
+	],
+	"name": "neptune_automation_app_documentation_a100",
+	"description": null,
+	"fallbackLocale": "EN",
+	"application": "neptune_automation_app_documentation_a100",
+	"ver": "26.08.04.1521",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"baseModel": null,
+	"apps": []
+}

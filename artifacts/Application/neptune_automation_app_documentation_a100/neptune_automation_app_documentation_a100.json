@@ -1,0 +1,364 @@
+{
+	"id": "08ae6e67-3c6c-4b1a-f5ff-e16603ab58f7",
+	"createdAt": "2026-08-04T15:21:32.024Z",
+	"createdBy": "neptune_bot_agent",
+	"objects": [
+		{
+			"fieldNo": "1",
+			"fieldName": "oShell",
+			"fieldParent": 0,
+			"fieldType": "sap.m.Shell",
+			"script": "",
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": [
+				{
+					"fieldNo": "2",
+					"fieldName": "oApp",
+					"fieldParent": "1",
+					"fieldType": "sap.m.App",
+					"script": "",
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": [
+						{
+							"fieldNo": "4",
+							"fieldName": "oPage",
+							"fieldParent": "2",
+							"fieldType": "sap.m.Page",
+							"script": "",
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "title",
+									"grouping": "Properties",
+									"value": "Rock Hall of Fame",
+									"script": "",
+									"translation": [
+										{
+											"language": "AR",
+											"value": "قاعة مشاهير الصخور"
+										},
+										{
+											"language": "BG",
+											"value": "Скална зала на славата"
+										},
+										{
+											"language": "DA",
+											"value": "Rock Hall of Fame"
+										},
+										{
+											"language": "DE",
+											"value": "Rock Hall of Fame"
+										},
+										{
+											"language": "NO",
+											"value": "Rock Hall of Fame"
+										},
+										{
+											"language": "ZH",
+											"value": "摇滚名人堂"
+										}
+									]
+								}
+							],
+							"data": [
+								{
+									"fieldNo": "74620ec9-fbda-4308-8cc1-f1fdecc201ab",
+									"fieldName": "oFlexBox",
+									"fieldParent": "4",
+									"fieldType": "sap.m.FlexBox",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "direction",
+											"grouping": "Properties",
+											"value": "Column",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "alignItems",
+											"grouping": "Properties",
+											"value": "Center",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "alignContent",
+											"grouping": "Properties",
+											"value": "Center",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": [
+										{
+											"fieldNo": "39cce3c7-722b-44fa-8656-c5e2fc26644c",
+											"fieldName": "oTitle",
+											"fieldParent": "74620ec9-fbda-4308-8cc1-f1fdecc201ab",
+											"fieldType": "sap.m.Title",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "titleStyle",
+													"grouping": "Properties",
+													"value": "H1",
+													"script": "",
+													"translation": []
+												},
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "Hello Rockstar",
+													"script": "",
+													"translation": [
+														{
+															"language": "AR",
+															"value": "مرحبا روكستار"
+														},
+														{
+															"language": "BG",
+															"value": "Здравей Рокстар"
+														},
+														{
+															"language": "DA",
+															"value": "Hej Rockstar"
+														},
+														{
+															"language": "DE",
+															"value": "Hallo Rockstar"
+														},
+														{
+															"language": "NO",
+															"value": "Hallo Rockstar"
+														},
+														{
+															"language": "ZH",
+															"value": "你好Rockstar"
+														}
+													]
+												},
+												{
+													"attribute": "level",
+													"grouping": "Properties",
+													"value": "H1",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										},
+										{
+											"fieldNo": "d01afaba-2cd2-43c9-9330-70d84db33c9e",
+											"fieldName": "oImage",
+											"fieldParent": "74620ec9-fbda-4308-8cc1-f1fdecc201ab",
+											"fieldType": "sap.m.Image",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "src",
+													"grouping": "Properties",
+													"value": "/media/root/electric-guitar-player-3.png",
+													"script": "",
+													"translation": []
+												},
+												{
+													"attribute": "height",
+													"grouping": "Properties",
+													"value": "30em",
+													"script": "",
+													"translation": []
+												},
+												{
+													"attribute": "alt",
+													"grouping": "Properties",
+													"value": "No image!",
+													"script": "",
+													"translation": []
+												},
+												{
+													"attribute": "press",
+													"grouping": "Events",
+													"value": "console.log('Mobile Debug: This is a sample test!');",
+													"script": "console.log('Mobile Debug: This is a sample test!');",
+													"translation": []
+												}
+											],
+											"data": []
+										},
+										{
+											"fieldNo": "9da15938-32c0-48e9-d768-892487802450",
+											"fieldName": "oLabel",
+											"fieldParent": "74620ec9-fbda-4308-8cc1-f1fdecc201ab",
+											"fieldType": "sap.m.Label",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "You rock!",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										}
+									]
+								},
+								{
+									"fieldNo": "5",
+									"fieldName": "oFooter",
+									"fieldParent": "4",
+									"fieldType": "sap.m.Bar",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "position",
+											"grouping": "Parent",
+											"value": "setFooter",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": [
+										{
+											"fieldNo": "6",
+											"fieldName": "Left",
+											"fieldParent": "5",
+											"fieldType": "neptune.BarContent",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "position",
+													"grouping": "Parent",
+													"value": "ContentLeft",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										},
+										{
+											"fieldNo": "7",
+											"fieldName": "Middle",
+											"fieldParent": "5",
+											"fieldType": "neptune.BarContent",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "position",
+													"grouping": "Parent",
+													"value": "ContentMiddle",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										},
+										{
+											"fieldNo": "8",
+											"fieldName": "Right",
+											"fieldParent": "5",
+											"fieldType": "neptune.BarContent",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "position",
+													"grouping": "Parent",
+													"value": "ContentRight",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": []
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"iaSettings": {
+		"denylist": [],
+		"allowlist": []
+	},
+	"ver": "26.08.04.1521",
+	"application": "neptune_automation_app_documentation_a100",
+	"title": "Rockstar",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": true,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_integration": false,
+	"ui5_chart": false,
+	"ui5_dxp_ui": false,
+	"ui5_theme": "sap_belize",
+	"ui5_version": "",
+	"ui5_language": "DA",
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"compiledCss": "",
+	"header": "<h1>Sample Header 2</h1>",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": true,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
+	"generateVersionOnActivation": false,
+	"enableIntelligence": false,
+	"activationHistoryCount": 0,
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"apis": [],
+	"i18n": []
+}
