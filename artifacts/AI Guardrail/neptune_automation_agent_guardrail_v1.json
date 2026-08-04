@@ -1,0 +1,29 @@
+{
+	"id": "75dc565b-8eaa-4f51-bf20-1c3989a4724d",
+	"createdAt": "2026-08-04T14:27:43.573Z",
+	"createdBy": "neptune_bot_agent",
+	"config": {
+		"denyOnError": false
+	},
+	"name": "neptune_automation_agent_guardrail_v1",
+	"ver": "26.08.04.1428",
+	"version": null,
+	"description": null,
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"model": "5f897be7-92e7-4890-9229-25ea4ffd9063",
+	"script": null,
+	"rulesengine": null,
+	"type": "llm",
+	"prompts": [
+		{
+			"id": "c2c676f5-cc4d-4892-a939-59135989262a",
+			"name": "c2c676f5-cc4d-4892-a939-59135989262a",
+			"ver": "26.08.04.1428"
+		},
+		{
+			"id": "4b9908d7-78c1-4eb4-9969-9c0631480c74",
+			"name": "4b9908d7-78c1-4eb4-9969-9c0631480c74",
+			"ver": "26.08.04.1428"
+		}
+	]
+}

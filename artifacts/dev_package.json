@@ -72,9 +72,28 @@
 			"description": "100 Free calls"
 		}
 	],
-	"ai_prompt": [],
+	"ai_prompt": [
+		{
+			"id": "c2c676f5-cc4d-4892-a939-59135989262a",
+			"agent": null,
+			"guardrail": "75dc565b-8eaa-4f51-bf20-1c3989a4724d",
+			"name": "c2c676f5-cc4d-4892-a939-59135989262a"
+		},
+		{
+			"id": "4b9908d7-78c1-4eb4-9969-9c0631480c74",
+			"agent": null,
+			"guardrail": "75dc565b-8eaa-4f51-bf20-1c3989a4724d",
+			"name": "4b9908d7-78c1-4eb4-9969-9c0631480c74"
+		}
+	],
 	"ai_tool": [],
-	"ai_guardrail": [],
+	"ai_guardrail": [
+		{
+			"id": "75dc565b-8eaa-4f51-bf20-1c3989a4724d",
+			"name": "neptune_automation_agent_guardrail_v1",
+			"description": null
+		}
+	],
 	"path_rewrite": [],
 	"font": [],
 	"vault": [],
