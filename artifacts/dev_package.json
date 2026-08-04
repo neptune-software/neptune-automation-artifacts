@@ -84,6 +84,12 @@
 			"agent": null,
 			"guardrail": "75dc565b-8eaa-4f51-bf20-1c3989a4724d",
 			"name": "4b9908d7-78c1-4eb4-9969-9c0631480c74"
+		},
+		{
+			"id": "300f1724-096b-498a-98dd-3a6583e3bf06",
+			"agent": null,
+			"guardrail": "0e86a814-1b44-466f-8bfa-0d5127bdb9ba",
+			"name": "300f1724-096b-498a-98dd-3a6583e3bf06"
 		}
 	],
 	"ai_tool": [],
@@ -91,6 +97,11 @@
 		{
 			"id": "75dc565b-8eaa-4f51-bf20-1c3989a4724d",
 			"name": "neptune_automation_agent_guardrail_v1",
+			"description": null
+		},
+		{
+			"id": "0e86a814-1b44-466f-8bfa-0d5127bdb9ba",
+			"name": "neptune_automation_agent_guardrail_v2",
 			"description": null
 		}
 	],
