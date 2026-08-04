@@ -1,0 +1,236 @@
+{
+	"id": "19da39a9-527a-4001-aae1-0dba624b6772",
+	"createdAt": "2026-08-04T10:15:06.428Z",
+	"createdBy": "neptune_bot_agent",
+	"attributes": [
+		{
+			"name": "Documentation",
+			"en": {},
+			"type": "XTXT",
+			"id": "12bec1dd-6dd3-4ead-a647-372541891836"
+		},
+		{
+			"parent": "Documentation",
+			"parentId": "12bec1dd-6dd3-4ead-a647-372541891836",
+			"name": "Documentation.EndToEndContent",
+			"text": "This is a sample i18n text model to be used in Documentation end-to-end tests",
+			"en": {
+				"text": "This is a sample i18n text model to be used in Documentation end-to-end tests"
+			},
+			"type": "XTXT",
+			"id": "c12fde6d-325a-408f-9010-d3f307c46e33"
+		},
+		{
+			"parent": "Documentation",
+			"parentId": "12bec1dd-6dd3-4ead-a647-372541891836",
+			"name": "Documentation.EndToEndIntro",
+			"text": "Documentation via Global i18n Text Model",
+			"en": {
+				"text": "Documentation via Global i18n Text Model"
+			},
+			"type": "XTXT",
+			"id": "b78cef7f-a42f-44cc-ef45-feae9606b912"
+		},
+		{
+			"parent": "Documentation",
+			"parentId": "12bec1dd-6dd3-4ead-a647-372541891836",
+			"name": "Documentation.EndToEndTitle",
+			"text": "Global i18n Text - End-to-End",
+			"en": {
+				"text": "Global i18n Text - End-to-End"
+			},
+			"type": "XTXT",
+			"id": "6cb11627-85f3-4597-daa9-515c78c68a18"
+		},
+		{
+			"name": "Launchpad",
+			"en": {},
+			"type": "XTXT",
+			"id": "9c0ca9a4-aa9b-4859-9571-bc7391b2d894"
+		},
+		{
+			"parent": "Launchpad",
+			"parentId": "9c0ca9a4-aa9b-4859-9571-bc7391b2d894",
+			"name": "Launchpad.EndToEndCustomLoginSubTitle",
+			"text": "This subtitle is from global i18n model",
+			"en": {
+				"text": "This subtitle is from global i18n model"
+			},
+			"type": "XTXT",
+			"id": "e412f583-01f5-4aba-c891-a3c92ef0f2b3"
+		},
+		{
+			"parent": "Launchpad",
+			"parentId": "9c0ca9a4-aa9b-4859-9571-bc7391b2d894",
+			"name": "Launchpad.EndToEndCustomLoginTitle",
+			"text": "Global i18n Title - End-to-End Launchpad",
+			"en": {
+				"text": "Global i18n Title - End-to-End Launchpad"
+			},
+			"type": "XTXT",
+			"id": "6f9f9619-b59c-41a5-abd3-2c3d6a5c4024"
+		},
+		{
+			"name": "Tile",
+			"en": {},
+			"type": "XTXT",
+			"id": "98a6f4c2-15b2-4039-dbca-a65653fe70e4"
+		},
+		{
+			"parent": "Tile",
+			"parentId": "98a6f4c2-15b2-4039-dbca-a65653fe70e4",
+			"name": "Tile.EndToEndTileButtonIcon",
+			"text": "sap-icon://nep/i18n",
+			"en": {
+				"text": "sap-icon://nep/i18n"
+			},
+			"type": "XTXT",
+			"id": "f2f0f58d-76b3-4736-cbd3-8721ee8f2952"
+		},
+		{
+			"parent": "Tile",
+			"parentId": "98a6f4c2-15b2-4039-dbca-a65653fe70e4",
+			"name": "Tile.EndToEndTileButtonText",
+			"text": "Open Global i18n Button",
+			"en": {
+				"text": "Open Global i18n Button"
+			},
+			"type": "XTXT",
+			"id": "a9446d17-6d5d-48c0-a991-439d4be19370"
+		},
+		{
+			"parent": "Tile",
+			"parentId": "98a6f4c2-15b2-4039-dbca-a65653fe70e4",
+			"name": "Tile.EndToEndTileDetails",
+			"text": "These sample details are using global i18n text model",
+			"en": {
+				"text": "These sample details are using global i18n text model"
+			},
+			"type": "XTXT",
+			"id": "e42386e8-bad0-40ad-9151-70c65d1af75f"
+		},
+		{
+			"parent": "Tile",
+			"parentId": "98a6f4c2-15b2-4039-dbca-a65653fe70e4",
+			"name": "Tile.EndToEndTileHelpText",
+			"text": "This sample help text is using global i18n model",
+			"en": {
+				"text": "This sample help text is using global i18n model"
+			},
+			"type": "XTXT",
+			"id": "373f595d-c044-40cd-f4e9-6532b2a7c520"
+		},
+		{
+			"parent": "Tile",
+			"parentId": "98a6f4c2-15b2-4039-dbca-a65653fe70e4",
+			"name": "Tile.EndToEndTileSidePanelTitle",
+			"text": "I18n SidePanel",
+			"en": {
+				"text": "I18n SidePanel"
+			},
+			"type": "XTXT",
+			"id": "4a72f782-39e9-4974-a17d-29fdce902a6e"
+		},
+		{
+			"parent": "Tile",
+			"parentId": "98a6f4c2-15b2-4039-dbca-a65653fe70e4",
+			"name": "Tile.EndToEndTileStatus",
+			"text": "Global i18n Model",
+			"en": {
+				"text": "Global i18n Model"
+			},
+			"type": "XTXT",
+			"id": "68a2c2c7-93d7-4541-84d0-d0e399543a46"
+		},
+		{
+			"parent": "Tile",
+			"parentId": "98a6f4c2-15b2-4039-dbca-a65653fe70e4",
+			"name": "Tile.EndToEndTileSubTitle",
+			"text": "Global i18n Subtitle - End-to-End Tile",
+			"en": {
+				"text": "Global i18n Subtitle - End-to-End Tile"
+			},
+			"type": "XTXT",
+			"id": "9493c5f4-524c-4e28-d321-ecdf7d27a369"
+		},
+		{
+			"parent": "Tile",
+			"parentId": "98a6f4c2-15b2-4039-dbca-a65653fe70e4",
+			"name": "Tile.EndToEndTileTitle",
+			"text": "Global i18n Title - End-to-End Tile",
+			"en": {
+				"text": "Global i18n Title - End-to-End Tile"
+			},
+			"type": "XTXT",
+			"id": "95b84479-d33c-40bf-e157-104b3c20745f"
+		},
+		{
+			"name": "TileGroup",
+			"en": {},
+			"type": "XTXT",
+			"id": "46aab9b2-3406-4c7d-a980-27671535195c"
+		},
+		{
+			"parent": "TileGroup",
+			"parentId": "46aab9b2-3406-4c7d-a980-27671535195c",
+			"name": "TileGroup.NeptuneAutomationTileGroupMenu",
+			"text": "Global i18n Menu - End-to-End Tile Group",
+			"en": {
+				"text": "Global i18n Menu - End-to-End Tile Group"
+			},
+			"type": "XTXT",
+			"id": "e47be1d1-ca02-4b1a-83fa-ab56532ce422"
+		},
+		{
+			"parent": "TileGroup",
+			"parentId": "46aab9b2-3406-4c7d-a980-27671535195c",
+			"name": "TileGroup.NeptuneAutomationTileGroupMessage",
+			"text": "This sample help text is using global i18n model",
+			"en": {
+				"text": "This sample help text is using global i18n model"
+			},
+			"type": "XTXT",
+			"id": "2c3ab7ca-e759-4d29-e8b7-ce4f517bf02e"
+		},
+		{
+			"parent": "TileGroup",
+			"parentId": "46aab9b2-3406-4c7d-a980-27671535195c",
+			"name": "TileGroup.NeptuneAutomationTileGroupSubTitle",
+			"text": "Global i18n Subtitle - End-to-End Tile Group",
+			"en": {
+				"text": "Global i18n Subtitle - End-to-End Tile Group"
+			},
+			"type": "XTXT",
+			"id": "d29b5c96-921a-429a-fe7c-13d6b669f635"
+		},
+		{
+			"parent": "TileGroup",
+			"parentId": "46aab9b2-3406-4c7d-a980-27671535195c",
+			"name": "TileGroup.NeptuneAutomationTileGroupTitle",
+			"text": "Global i18n Title - End-to-End Tile Group",
+			"en": {
+				"text": "Global i18n Title - End-to-End Tile Group"
+			},
+			"type": "XTXT",
+			"id": "d577fbef-7f48-4631-b86c-a574d80d078c"
+		}
+	],
+	"locales": [
+		{
+			"isoCode": "EN",
+			"locale": "en"
+		}
+	],
+	"name": "NeptuneAutomationLocalization",
+	"description": null,
+	"fallbackLocale": "en",
+	"application": null,
+	"ver": "26.08.04.1030",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"baseModel": null,
+	"apps": []
+}

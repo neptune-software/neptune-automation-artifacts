@@ -44,7 +44,13 @@
 	"script_scheduler": [],
 	"wf_definition": [],
 	"connector": [],
-	"i18n": [],
+	"i18n": [
+		{
+			"id": "19da39a9-527a-4001-aae1-0dba624b6772",
+			"name": "NeptuneAutomationLocalization",
+			"description": null
+		}
+	],
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],
