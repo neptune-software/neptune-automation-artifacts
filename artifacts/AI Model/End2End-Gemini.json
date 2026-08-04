@@ -1,0 +1,21 @@
+{
+	"id": "5f897be7-92e7-4890-9229-25ea4ffd9063",
+	"createdAt": "2026-03-31T12:27:07.928Z",
+	"createdBy": "playwright",
+	"config": {
+		"apiKey": "4312411852d1b5917f5b80e150b0413b02013f27952cbc1f0355665af904eced2764f35b169385fe166f46944fe1a54fdbb1c89731",
+		"baseURL": "https://generativelanguage.googleapis.com/v1beta",
+		"model": "gemini-3.6-flash",
+		"accessKeyId": "",
+		"secretAccessKey": ""
+	},
+	"name": "End2End-Gemini",
+	"type": "google",
+	"ver": "26.08.04.1207",
+	"version": null,
+	"description": "100 Free calls",
+	"inputType": "text",
+	"outputType": "text",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"roles": []
+}

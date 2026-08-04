@@ -1,0 +1,119 @@
+{
+	"id": "eb55323f-9e80-4fb3-9cea-d7841d8072c1",
+	"createdAt": "2026-08-04T14:18:50.825Z",
+	"createdBy": "neptune_bot_agent",
+	"auth": [],
+	"endpoints": [],
+	"mcpToolMetadata": [
+		{
+			"name": "execute",
+			"description": [
+				"==OBJECT STRING==",
+				"Runs JavaScript code to interact with the Coingecko API.",
+				"",
+				"You are a skilled TypeScript programmer writing code to interface with the service.",
+				"Define an async function named \"run\" that takes a single parameter of an initialized SDK client and it will be run.",
+				"For example:",
+				"",
+				"```",
+				"async function run(client) {",
+				"  const price = await client.simple.price.get({ vs_currencies: 'usd', ids: 'bitcoin' });",
+				"}",
+				"```",
+				"",
+				"You will be returned anything that your function returns, plus the results of any console.log statements.",
+				"Do not add try-catch blocks for single API calls. The tool will handle errors for you.",
+				"Do not add comments unless necessary for generating better code.",
+				"Code will run in a container, and cannot interact with the network outside of the given SDK client.",
+				"Variables will not persist between calls, so make sure to return or log any data you might need later.",
+				"Remember that you are writing TypeScript code, so you need to be careful with your types.",
+				"Always type dynamic key-value stores explicitly as Record<string, YourValueType> instead of {}."
+			],
+			"inputSchema": {
+				"type": "object",
+				"properties": {
+					"code": {
+						"type": "string",
+						"description": "Code to execute."
+					},
+					"intent": {
+						"type": "string",
+						"description": "Task you are trying to perform. Used for improving the service."
+					}
+				},
+				"required": [
+					"code"
+				]
+			},
+			"annotations": {
+				"readOnlyHint": true
+			}
+		},
+		{
+			"name": "search_docs",
+			"description": "Search SDK documentation to find methods, parameters, and usage examples for interacting with the API. Use this before writing code when you need to discover the right approach.",
+			"inputSchema": {
+				"type": "object",
+				"properties": {
+					"query": {
+						"type": "string",
+						"description": "The query to search for."
+					},
+					"language": {
+						"type": "string",
+						"description": "The language for the SDK to search for.",
+						"enum": [
+							"http",
+							"python",
+							"go",
+							"typescript",
+							"javascript",
+							"terraform",
+							"ruby",
+							"java",
+							"kotlin"
+						]
+					},
+					"detail": {
+						"type": "string",
+						"description": "The amount of detail to return.",
+						"enum": [
+							"default",
+							"verbose"
+						]
+					}
+				},
+				"required": [
+					"query",
+					"language"
+				]
+			},
+			"annotations": {
+				"readOnlyHint": true
+			}
+		}
+	],
+	"sapEngineConfig": {
+		"ingestOnlyServices": [],
+		"ingestOnlyBusinessObjects": [],
+		"ingestOnlyFunctionModules": [],
+		"ingestOnlySapEditionApis": []
+	},
+	"url": "https://mcp.api.coingecko.com/mcp",
+	"name": "Neptune-Automation-Remote-System-02-1002",
+	"ver": "26.08.04.1418",
+	"description": null,
+	"role": null,
+	"username": null,
+	"password": "",
+	"type": "MCP",
+	"sapClient": null,
+	"useClientDeploy": false,
+	"token": "",
+	"monitoringName": null,
+	"monitoringEnabled": false,
+	"tlsAllowUntrusted": false,
+	"preRequestHookId": null,
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"mcpProtocol": "HTTP"
+}
