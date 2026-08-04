@@ -106,7 +106,13 @@
 		}
 	],
 	"ui5_control": [],
-	"ai_agent": [],
+	"ai_agent": [
+		{
+			"id": "58d7ec68-d8de-40e7-9b00-5ec25aa1589e",
+			"name": "Neptune-Automation-Agent-02-1001",
+			"description": null
+		}
+	],
 	"ai_model": [
 		{
 			"id": "5f897be7-92e7-4890-9229-25ea4ffd9063",
@@ -132,6 +138,12 @@
 			"agent": null,
 			"guardrail": "0e86a814-1b44-466f-8bfa-0d5127bdb9ba",
 			"name": "300f1724-096b-498a-98dd-3a6583e3bf06"
+		},
+		{
+			"id": "11c8090d-4784-470a-b240-dc5314f67ad6",
+			"agent": "58d7ec68-d8de-40e7-9b00-5ec25aa1589e",
+			"guardrail": null,
+			"name": "11c8090d-4784-470a-b240-dc5314f67ad6"
 		}
 	],
 	"ai_tool": [],
