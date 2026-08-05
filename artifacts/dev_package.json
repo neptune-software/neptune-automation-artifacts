@@ -83,7 +83,13 @@
 			"description": ""
 		}
 	],
-	"rulesengine": [],
+	"rulesengine": [
+		{
+			"id": "af4d3822-0e8d-4845-86ac-e6f6d8e9d812",
+			"name": "neptune_automation_guardrail_rules_engine_02_1004",
+			"description": ""
+		}
+	],
 	"reports": [],
 	"api_authentication": [],
 	"api_group": [],

@@ -1,0 +1,33 @@
+{
+	"id": "af4d3822-0e8d-4845-86ac-e6f6d8e9d812",
+	"createdAt": "2026-08-05T11:26:15.818Z",
+	"createdBy": "neptune_bot_agent",
+	"interface": [
+		{
+			"id": "8da3cb78-bec3-4888-d7ab-1feda4196583",
+			"parent": "",
+			"name": "content",
+			"objectType": "string",
+			"description": ""
+		}
+	],
+	"rules": [
+		{
+			"id": "08fcd26f-0628-4510-8036-40e64919ecef",
+			"result": "deny",
+			"items": [
+				{
+					"id": "20e498bd-3286-4227-83a3-93e07f4f17d0",
+					"field": "8da3cb78-bec3-4888-d7ab-1feda4196583",
+					"operator": "regex",
+					"value": "\\\\b[Pp][Rr][Ii][Cc](?:[Ee]|[Ee][Ss]|[Ii][Nn][Gg])\\\\b"
+				}
+			]
+		}
+	],
+	"name": "neptune_automation_guardrail_rules_engine_02_1004",
+	"description": "",
+	"ver": "26.08.05.1127",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"roles": []
+}
