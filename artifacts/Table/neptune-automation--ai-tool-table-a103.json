@@ -1,0 +1,37 @@
+{
+	"id": "062daf1d-3d3b-44aa-8e8b-27a2e782da35",
+	"createdAt": "2026-08-05T09:24:47.302Z",
+	"createdBy": "neptune_bot_agent",
+	"fields": [
+		{
+			"id": "e85e4785-5c04-4476-e176-16fa4cfb69e8",
+			"fieldName": "recid",
+			"fieldType": "integer",
+			"isUnique": false
+		},
+		{
+			"id": "042171fe-719a-4bfd-8c39-81b989de53ef",
+			"fieldName": "name",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "220c4a00-ad73-4626-c875-f3797107fd65",
+			"fieldName": "description",
+			"fieldType": "text",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"vectorStoreConfig": {},
+	"name": "neptune-automation--ai-tool-table-a103",
+	"description": null,
+	"ver": "26.08.05.0925",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"generationStrategy": "uuid",
+	"rolesRead": [],
+	"rolesWrite": []
+}

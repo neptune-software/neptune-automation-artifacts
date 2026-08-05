@@ -38,6 +38,11 @@
 			"id": "08dddcaf-10ec-4ac2-b275-7677753d2a9d",
 			"name": "neptune_automation_vectorized_table",
 			"description": null
+		},
+		{
+			"id": "062daf1d-3d3b-44aa-8e8b-27a2e782da35",
+			"name": "neptune-automation--ai-tool-table-a103",
+			"description": null
 		}
 	],
 	"jsclass": [
