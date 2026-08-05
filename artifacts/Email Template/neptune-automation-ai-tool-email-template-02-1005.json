@@ -1,0 +1,13 @@
+{
+	"id": "a74dbdb3-92d8-4b22-a1a0-7878ea6b1940",
+	"createdAt": "2026-08-05T09:52:56.122Z",
+	"createdBy": "neptune_bot_agent",
+	"translation": null,
+	"name": "neptune-automation-ai-tool-email-template-02-1005",
+	"description": "A Pre-Provisioned Email Template For Use In AI Tool Testing",
+	"content": null,
+	"ver": "26.08.05.0953",
+	"type": "template",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"i18n": []
+}

@@ -100,7 +100,13 @@
 		}
 	],
 	"doc": [],
-	"wf_notifications": [],
+	"wf_notifications": [
+		{
+			"id": "a74dbdb3-92d8-4b22-a1a0-7878ea6b1940",
+			"name": "neptune-automation-ai-tool-email-template-02-1005",
+			"description": "A Pre-Provisioned Email Template For Use In AI Tool Testing"
+		}
+	],
 	"department": [],
 	"script_scheduler": [],
 	"wf_definition": [],
