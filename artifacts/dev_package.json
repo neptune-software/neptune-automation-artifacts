@@ -47,6 +47,16 @@
 	],
 	"jsclass": [
 		{
+			"id": "adf82b8b-7609-4480-85e3-38d8b26150e0",
+			"name": "neptune_automation_guardrail_script_a102",
+			"description": null
+		},
+		{
+			"id": "81ea1d03-e205-4b27-88a1-64f60a178a6b",
+			"name": "neptune_automation_guardrail_script_a103",
+			"description": null
+		},
+		{
 			"id": "581357c1-ec5f-4974-9449-1ccd3e47a1f1",
 			"name": "neptune_automation_ai_tool_a100",
 			"description": ""
@@ -57,11 +67,22 @@
 			"id": "cb49ee46-c496-42b9-bac6-4534460fa3e3",
 			"name": "Project_Neptune_Automation_AITool_02_1005",
 			"description": "A pre-provisioned script project for use in AI Tool end-to-end testing"
+		},
+		{
+			"id": "0d05af5b-4310-45cc-8e18-aa7fe5a13cf9",
+			"name": "Project_Neptune_Automation_Guardrail_02_1004",
+			"description": "A pre-provisioned script project for use in Guardrail end-to-end testing"
 		}
 	],
 	"theme": [],
 	"theme_generator": [],
-	"pdf": [],
+	"pdf": [
+		{
+			"id": "240367a2-7d22-4ee0-b6da-ff6842f9873b",
+			"application": "neptune_automation_ai_tool_pdf_02_1005",
+			"description": ""
+		}
+	],
 	"rulesengine": [],
 	"reports": [],
 	"api_authentication": [],

@@ -1,0 +1,26 @@
+{
+	"id": "81ea1d03-e205-4b27-88a1-64f60a178a6b",
+	"createdAt": "2026-08-05T11:06:46.169Z",
+	"createdBy": "neptune_bot_agent",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"agents": [],
+	"apis": [],
+	"name": "neptune_automation_guardrail_script_a103",
+	"ver": "26.08.05.1109",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "0d05af5b-4310-45cc-8e18-aa7fe5a13cf9",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"jsscriptGroupObj": {
+		"id": "0d05af5b-4310-45cc-8e18-aa7fe5a13cf9",
+		"name": "Project_Neptune_Automation_Guardrail_02_1004",
+		"ver": "26.08.05.1109"
+	}
+}

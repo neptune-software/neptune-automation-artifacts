@@ -1,0 +1,10 @@
+{
+	"id": "0d05af5b-4310-45cc-8e18-aa7fe5a13cf9",
+	"createdAt": "2026-08-05T11:05:47.467Z",
+	"createdBy": "neptune_bot_agent",
+	"name": "Project_Neptune_Automation_Guardrail_02_1004",
+	"description": "A pre-provisioned script project for use in Guardrail end-to-end testing",
+	"ver": "26.08.05.1109",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"projectLogLevel": null
+}

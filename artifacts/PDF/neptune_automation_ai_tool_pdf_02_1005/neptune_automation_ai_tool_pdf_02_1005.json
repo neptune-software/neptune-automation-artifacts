@@ -1,0 +1,47 @@
+{
+	"id": "240367a2-7d22-4ee0-b6da-ff6842f9873b",
+	"createdAt": "2026-08-05T10:02:26.397Z",
+	"createdBy": "neptune_bot_agent",
+	"interface": [],
+	"objects": [
+		{
+			"fieldNo": "e8795264-d291-499a-f77e-95a22f11b448",
+			"fieldName": "Settings",
+			"fieldParent": 0,
+			"fieldPos": 1,
+			"fieldType": "neptune.pdf.settings",
+			"fieldDescription": "PDF Settings",
+			"attributes": []
+		},
+		{
+			"fieldNo": "40216c6c-d0f9-4b75-ab4b-ca0d2c8185f7",
+			"fieldName": "Content",
+			"fieldParent": 0,
+			"fieldPos": 2,
+			"fieldType": "neptune.pdf.content",
+			"fieldDescription": "Main PDF content area ",
+			"attributes": []
+		},
+		{
+			"fieldNo": "ae98f6f1-1864-4917-87d0-87b75699c52a",
+			"fieldName": "Styles",
+			"fieldParent": 0,
+			"fieldPos": 3,
+			"fieldType": "neptune.pdf.styles",
+			"fieldDescription": "Define your custom styles and assign to objects",
+			"attributes": []
+		}
+	],
+	"application": "neptune_automation_ai_tool_pdf_02_1005",
+	"description": "",
+	"status": "Active",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"disabled": false,
+	"testdata": "",
+	"ver": "26.08.05.1002",
+	"publicAccess": false,
+	"enableStorage": false,
+	"dd": null,
+	"fonts": [],
+	"i18n": []
+}
