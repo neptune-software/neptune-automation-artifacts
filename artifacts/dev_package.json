@@ -165,6 +165,11 @@
 	"ui5_control": [],
 	"ai_agent": [
 		{
+			"id": "bce4c442-824a-43c6-8047-b6892670c4e1",
+			"name": "neptune_automation_guardrail_verify_agent",
+			"description": null
+		},
+		{
 			"id": "8a5f9087-adc2-4836-a42f-7c5e558e65b2",
 			"name": "neptune_automation_ai_tool_verify_agent",
 			"description": null
@@ -183,6 +188,12 @@
 			"agent": null,
 			"guardrail": "75dc565b-8eaa-4f51-bf20-1c3989a4724d",
 			"name": "c2c676f5-cc4d-4892-a939-59135989262a"
+		},
+		{
+			"id": "b2b2844d-3a3e-423e-9fc1-029985573d00",
+			"agent": "bce4c442-824a-43c6-8047-b6892670c4e1",
+			"guardrail": null,
+			"name": "b2b2844d-3a3e-423e-9fc1-029985573d00"
 		},
 		{
 			"id": "4f4390f0-dd25-48d7-9065-6d0c3a0ae4de",
