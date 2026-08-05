@@ -8,8 +8,8 @@
 	"agents": [],
 	"apis": [],
 	"name": "neptune_automation_ai_tool_a100",
-	"ver": "26.08.05.0714",
-	"description": "A pre-provisioned server script for use in AI Tool end-to-end testing",
+	"ver": "26.08.05.0801",
+	"description": "",
 	"folder": "",
 	"content": "console.log(\"Neptune Automation: AI Tool script executed successfully\");",
 	"useAsGlobalScript": false,
@@ -21,6 +21,6 @@
 	"jsscriptGroupObj": {
 		"id": "cb49ee46-c496-42b9-bac6-4534460fa3e3",
 		"name": "Project_Neptune_Automation_AITool_02_1005",
-		"ver": "26.08.05.0714"
+		"ver": "26.08.05.0801"
 	}
 }

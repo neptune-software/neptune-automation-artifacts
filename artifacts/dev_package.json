@@ -44,7 +44,7 @@
 		{
 			"id": "581357c1-ec5f-4974-9449-1ccd3e47a1f1",
 			"name": "neptune_automation_ai_tool_a100",
-			"description": "A pre-provisioned server script for use in AI Tool end-to-end testing"
+			"description": ""
 		}
 	],
 	"jsscript_group": [
