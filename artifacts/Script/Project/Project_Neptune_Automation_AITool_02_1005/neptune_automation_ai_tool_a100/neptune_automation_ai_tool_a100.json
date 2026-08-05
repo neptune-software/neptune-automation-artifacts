@@ -1,0 +1,21 @@
+{
+	"id": "581357c1-ec5f-4974-9449-1ccd3e47a1f1",
+	"createdAt": "2026-08-05T07:14:00.369Z",
+	"createdBy": "neptune_bot_agent",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"agents": [],
+	"apis": [],
+	"name": "neptune_automation_ai_tool_a100",
+	"ver": "26.08.05.0714",
+	"description": "A pre-provisioned server script for use in AI Tool end-to-end testing",
+	"folder": "",
+	"content": "console.log(\"Neptune Automation: AI Tool script executed successfully\");",
+	"useAsGlobalScript": false,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "cb49ee46-c496-42b9-bac6-4534460fa3e3",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792"
+}

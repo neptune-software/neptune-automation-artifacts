@@ -23,7 +23,14 @@
 			"description": ""
 		}
 	],
-	"api": [],
+	"api": [
+		{
+			"id": "8fd678f0-0aed-4370-a804-d96ec4907a43",
+			"name": "neptune-automation-ai-tool-api-a101",
+			"description": null,
+			"apiGroup": null
+		}
+	],
 	"odataSource": [],
 	"odataMock": [],
 	"dictionary": [
@@ -33,8 +40,20 @@
 			"description": null
 		}
 	],
-	"jsclass": [],
-	"jsscript_group": [],
+	"jsclass": [
+		{
+			"id": "581357c1-ec5f-4974-9449-1ccd3e47a1f1",
+			"name": "neptune_automation_ai_tool_a100",
+			"description": "A pre-provisioned server script for use in AI Tool end-to-end testing"
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "cb49ee46-c496-42b9-bac6-4534460fa3e3",
+			"name": "Project_Neptune_Automation_AITool_02_1005",
+			"description": "A pre-provisioned script project for use in AI Tool end-to-end testing"
+		}
+	],
 	"theme": [],
 	"theme_generator": [],
 	"pdf": [],
@@ -111,6 +130,11 @@
 		{
 			"id": "5f897be7-92e7-4890-9229-25ea4ffd9063",
 			"name": "End2End-Gemini",
+			"description": "100 Free calls"
+		},
+		{
+			"id": "550cb722-9990-44f3-9e53-be70610392f2",
+			"name": "End2End-Gemini_copy",
 			"description": "100 Free calls"
 		}
 	],
