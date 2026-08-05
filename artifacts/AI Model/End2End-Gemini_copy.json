@@ -1,0 +1,21 @@
+{
+	"id": "550cb722-9990-44f3-9e53-be70610392f2",
+	"createdAt": "2026-08-05T03:19:46.456Z",
+	"createdBy": "neptune_bot_agent",
+	"config": {
+		"apiKey": "@planet9_placeholder_password@",
+		"baseURL": "https://generativelanguage.googleapis.com/v1beta",
+		"model": "gemini-3.6-flash",
+		"accessKeyId": "",
+		"secretAccessKey": ""
+	},
+	"name": "End2End-Gemini_copy",
+	"type": "google",
+	"ver": "26.08.05.0319",
+	"version": null,
+	"description": "100 Free calls",
+	"inputType": "text",
+	"outputType": "text",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"roles": []
+}
