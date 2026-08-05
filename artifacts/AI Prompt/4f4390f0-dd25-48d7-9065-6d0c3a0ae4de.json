@@ -1,0 +1,16 @@
+{
+	"id": "4f4390f0-dd25-48d7-9065-6d0c3a0ae4de",
+	"createdAt": "2026-08-05T08:12:07.115Z",
+	"createdBy": "neptune_bot_agent",
+	"variables": [
+		"name"
+	],
+	"prompt": "You are an assistant that gives clear and accurate answers to user {{name}}",
+	"agent": "8a5f9087-adc2-4836-a42f-7c5e558e65b2",
+	"guardrail": null,
+	"sapDataSource": null,
+	"ver": "26.08.05.0812",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"status": "active",
+	"name": "4f4390f0-dd25-48d7-9065-6d0c3a0ae4de"
+}
