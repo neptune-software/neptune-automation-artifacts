@@ -16,6 +16,12 @@
 	"roles": [],
 	"apps": [
 		{
+			"id": "effbd524-0e6c-4cde-c298-0cfcb3e4aab3",
+			"application": "neptune_automation_launchpad_05_1004_a104",
+			"title": "Rockstar",
+			"description": ""
+		},
+		{
 			"id": "735ed989-0d90-45df-ef71-0e3a6625e1f1",
 			"application": "neptune_automation_codesnippet_01_1007",
 			"title": "",
@@ -157,6 +163,11 @@
 		{
 			"id": "fe246730-f68b-47e8-a3b9-7bcf63d0477e",
 			"name": "neptune_automation_codesnippet_01_1007",
+			"description": null
+		},
+		{
+			"id": "ec284664-dc91-f111-b337-000d3a68edad",
+			"name": "neptune_automation_launchpad_05_1004_a104",
 			"description": null
 		},
 		{
