@@ -8,13 +8,12 @@
 	},
 	"name": "neptune-automation-artifacts",
 	"description": "Collection of pre-defined artifacts to be used in the end-to-end testing",
-	"ver": "26.08.04.1009",
+	"ver": "26.08.06.1940",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
 	"excludeTemplateFiles": true,
 	"roles": [],
-	"accessLevel": "EDIT",
 	"apps": [
 		{
 			"id": "735ed989-0d90-45df-ef71-0e3a6625e1f1",
@@ -82,13 +81,7 @@
 	],
 	"theme": [],
 	"theme_generator": [],
-	"pdf": [
-		{
-			"id": "240367a2-7d22-4ee0-b6da-ff6842f9873b",
-			"application": "neptune_automation_ai_tool_pdf_02_1005",
-			"description": ""
-		}
-	],
+	"pdf": [],
 	"rulesengine": [
 		{
 			"id": "af4d3822-0e8d-4845-86ac-e6f6d8e9d812",
@@ -124,7 +117,13 @@
 	],
 	"launchpad_layout": [],
 	"certificates": [],
-	"role": [],
+	"role": [
+		{
+			"id": "ec0ef28b-ce91-f111-b337-000d3a68edad",
+			"name": "Neptune-Automation-Role-05-1004",
+			"description": null
+		}
+	],
 	"systems": [
 		{
 			"id": "eb55323f-9e80-4fb3-9cea-d7841d8072c1",
@@ -197,32 +196,32 @@
 		{
 			"id": "c2c676f5-cc4d-4892-a939-59135989262a",
 			"agent": null,
-			"guardrail": "75dc565b-8eaa-4f51-bf20-1c3989a4724d",
-			"name": "c2c676f5-cc4d-4892-a939-59135989262a"
+			"guardrail": "75DC565B-8EAA-4F51-BF20-1C3989A4724D",
+			"name": "C2C676F5-CC4D-4892-A939-59135989262A"
 		},
 		{
 			"id": "b2b2844d-3a3e-423e-9fc1-029985573d00",
-			"agent": "bce4c442-824a-43c6-8047-b6892670c4e1",
+			"agent": "BCE4C442-824A-43C6-8047-B6892670C4E1",
 			"guardrail": null,
-			"name": "b2b2844d-3a3e-423e-9fc1-029985573d00"
+			"name": "B2B2844D-3A3E-423E-9FC1-029985573D00"
 		},
 		{
 			"id": "4f4390f0-dd25-48d7-9065-6d0c3a0ae4de",
-			"agent": "8a5f9087-adc2-4836-a42f-7c5e558e65b2",
+			"agent": "8A5F9087-ADC2-4836-A42F-7C5E558E65B2",
 			"guardrail": null,
-			"name": "4f4390f0-dd25-48d7-9065-6d0c3a0ae4de"
+			"name": "4F4390F0-DD25-48D7-9065-6D0C3A0AE4DE"
 		},
 		{
 			"id": "4b9908d7-78c1-4eb4-9969-9c0631480c74",
 			"agent": null,
-			"guardrail": "75dc565b-8eaa-4f51-bf20-1c3989a4724d",
-			"name": "4b9908d7-78c1-4eb4-9969-9c0631480c74"
+			"guardrail": "75DC565B-8EAA-4F51-BF20-1C3989A4724D",
+			"name": "4B9908D7-78C1-4EB4-9969-9C0631480C74"
 		},
 		{
 			"id": "300f1724-096b-498a-98dd-3a6583e3bf06",
 			"agent": null,
-			"guardrail": "0e86a814-1b44-466f-8bfa-0d5127bdb9ba",
-			"name": "300f1724-096b-498a-98dd-3a6583e3bf06"
+			"guardrail": "0E86A814-1B44-466F-8BFA-0D5127BDB9BA",
+			"name": "300F1724-096B-498A-98DD-3A6583E3BF06"
 		}
 	],
 	"ai_tool": [],
@@ -239,8 +238,5 @@
 		}
 	],
 	"path_rewrite": [],
-	"font": [],
-	"vault": [],
-	"workflow": [],
-	"workflow_logs": []
+	"vault": []
 }
