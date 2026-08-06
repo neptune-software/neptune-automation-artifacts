@@ -173,6 +173,17 @@
 		{
 			"parent": "TileGroup",
 			"parentId": "46aab9b2-3406-4c7d-a980-27671535195c",
+			"name": "TileGroup.longText",
+			"text": "This is a very long text that is used in the automated tests to check if the input is verifying the binding value so that it does not exceed the maximum characters",
+			"en": {
+				"text": "This is a very long text that is used in the automated tests to check if the input is verifying the binding value so that it does not exceed the maximum characters"
+			},
+			"type": "XTXT",
+			"id": "b6081db7-ad2d-44eb-f873-d600d0a0aa2a"
+		},
+		{
+			"parent": "TileGroup",
+			"parentId": "46aab9b2-3406-4c7d-a980-27671535195c",
 			"name": "TileGroup.NeptuneAutomationTileGroupMenu",
 			"text": "Global i18n Menu - End-to-End Tile Group",
 			"en": {
@@ -213,6 +224,17 @@
 			},
 			"type": "XTXT",
 			"id": "d577fbef-7f48-4631-b86c-a574d80d078c"
+		},
+		{
+			"parent": "TileGroup",
+			"parentId": "46aab9b2-3406-4c7d-a980-27671535195c",
+			"name": "TileGroup.ThisIsALongAttributeToTestTheInputNumberOfCharactersVerification",
+			"text": "This tests if the binding is being verified as a regular input",
+			"en": {
+				"text": "This tests if the binding is being verified as a regular input"
+			},
+			"type": "XTXT",
+			"id": "ece685e2-eda7-4bed-9e29-55b3ce058fe1"
 		}
 	],
 	"locales": [
@@ -225,7 +247,7 @@
 	"description": null,
 	"fallbackLocale": "en",
 	"application": null,
-	"ver": "26.08.04.1030",
+	"ver": "26.08.06.1631",
 	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
 	"active": true,
 	"deleted": false,

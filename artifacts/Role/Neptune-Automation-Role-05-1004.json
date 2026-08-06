@@ -1,0 +1,444 @@
+{
+	"id": "91eaa2c3-5181-4a44-8070-819298c5da0c",
+	"createdAt": "2026-08-06T19:35:10.861Z",
+	"createdBy": "neptune_bot_agent",
+	"name": "Neptune-Automation-Role-05-1004",
+	"description": null,
+	"ver": "26.08.06.1935",
+	"isGlobalAdmin": false,
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"acl": [
+		{
+			"id": "workflowtaskaction_E",
+			"name": "Task Action"
+		},
+		{
+			"id": "workflowsubstitution_E",
+			"name": "Substitutions"
+		},
+		{
+			"id": "workflowmonitor_E",
+			"name": "Overview"
+		},
+		{
+			"id": "workflowdetermination_E",
+			"name": "Approvers"
+		},
+		{
+			"id": "workflowdefinition_E",
+			"name": "Definition"
+		},
+		{
+			"id": "workflow_E",
+			"name": "Workflow"
+		},
+		{
+			"id": "toolsscripteditor_E",
+			"name": "Script Editor"
+		},
+		{
+			"id": "toolsrestore_E",
+			"name": "Application Trashbin"
+		},
+		{
+			"id": "toolsnpmmodules_E",
+			"name": "Node Package Manager"
+		},
+		{
+			"id": "toolsjobschedulerlog_E",
+			"name": "Job Log"
+		},
+		{
+			"id": "toolsjobscheduler_E",
+			"name": "Job Manage"
+		},
+		{
+			"id": "toolsiconexplorer_E",
+			"name": "Icon Explorer"
+		},
+		{
+			"id": "toolshousekeeping_E",
+			"name": "Housekeeping"
+		},
+		{
+			"id": "toolsevents_E",
+			"name": "Events"
+		},
+		{
+			"id": "toolsdbdefinition_E",
+			"name": "Table Definition"
+		},
+		{
+			"id": "toolsdbbrowser_E",
+			"name": "Table Browser"
+		},
+		{
+			"id": "tools_E",
+			"name": "Tools"
+		},
+		{
+			"id": "settingssystems_E",
+			"name": "Remote Systems"
+		},
+		{
+			"id": "settingssystem_E",
+			"name": "System Settings"
+		},
+		{
+			"id": "settingsimportldapgroup_E",
+			"name": "Import LDAP "
+		},
+		{
+			"id": "settingscustomizing_E",
+			"name": "Custom Settings"
+		},
+		{
+			"id": "settings_E",
+			"name": "Settings"
+		},
+		{
+			"id": "securityuser_E",
+			"name": "User"
+		},
+		{
+			"id": "securitytableaudit_E",
+			"name": "Table Audit"
+		},
+		{
+			"id": "securityrole_E",
+			"name": "Role"
+		},
+		{
+			"id": "securitydepartment_E",
+			"name": "Security Group"
+		},
+		{
+			"id": "securityauditlog_E",
+			"name": "Audit Log"
+		},
+		{
+			"id": "security_E",
+			"name": "Security"
+		},
+		{
+			"id": "sapintegrationhubmcpdesigner_E",
+			"name": "Hub MCP Designer"
+		},
+		{
+			"id": "sapintegrationhubapidesigner_E",
+			"name": "Hub API Designer"
+		},
+		{
+			"id": "sapintegrationhub_E",
+			"name": "SAP Integration Hub"
+		},
+		{
+			"id": "runwebapp_E",
+			"name": "Web App Manager"
+		},
+		{
+			"id": "runvault_E",
+			"name": "Vault"
+		},
+		{
+			"id": "runtranslation_E",
+			"name": "Translation"
+		},
+		{
+			"id": "runtileblackout_E",
+			"name": "Tile Blackout"
+		},
+		{
+			"id": "runtile_E",
+			"name": "Tile"
+		},
+		{
+			"id": "runpushusers_E",
+			"name": "Push Notification Users"
+		},
+		{
+			"id": "runpathrewrite_E",
+			"name": "Dynamic Route Rewrite"
+		},
+		{
+			"id": "runmobiledebug_E",
+			"name": "Mobile Debug"
+		},
+		{
+			"id": "runmobile_E",
+			"name": "Mobile Client"
+		},
+		{
+			"id": "runlaunchpadtrace_E",
+			"name": "Launchpad Trace"
+		},
+		{
+			"id": "runlaunchpad_E",
+			"name": "Launchpad"
+		},
+		{
+			"id": "rungroup_E",
+			"name": "Tile Group"
+		},
+		{
+			"id": "runfav_E",
+			"name": "Favorite Management"
+		},
+		{
+			"id": "runapps_E",
+			"name": "Application Management"
+		},
+		{
+			"id": "runapplog_E",
+			"name": "Application Log"
+		},
+		{
+			"id": "processflowsoverview_E",
+			"name": "Process Flows Overview"
+		},
+		{
+			"id": "processflows_E",
+			"name": "Process Flows"
+		},
+		{
+			"id": "processflowdesigner_E",
+			"name": "Process Flow Designer"
+		},
+		{
+			"id": "monitorsystemlogs_E",
+			"name": "System Logs"
+		},
+		{
+			"id": "monitorsmtplog_E",
+			"name": "SMTP Log"
+		},
+		{
+			"id": "monitorsessions_E",
+			"name": "User Sessions"
+		},
+		{
+			"id": "monitorpdfarchive_E",
+			"name": "PDF Archive"
+		},
+		{
+			"id": "monitoroverview_E",
+			"name": "System Processes"
+		},
+		{
+			"id": "monitorlocking_E",
+			"name": "Lock Entries"
+		},
+		{
+			"id": "monitoring_E",
+			"name": "Monitoring"
+		},
+		{
+			"id": "help_E",
+			"name": "Help"
+		},
+		{
+			"id": "developmenttilelayout_E",
+			"name": "Tile Layout"
+		},
+		{
+			"id": "developmenttilegrouplayout_E",
+			"name": "Tile Group Layout"
+		},
+		{
+			"id": "developmentthemeimport_E",
+			"name": "UI5 Theme Import"
+		},
+		{
+			"id": "developmentthemegenerator_E",
+			"name": "UI5 Theme Generator"
+		},
+		{
+			"id": "developmentthemedesigner_E",
+			"name": "Global CSS Style"
+		},
+		{
+			"id": "developmentrulesengine_E",
+			"name": "Rules Engine"
+		},
+		{
+			"id": "developmentpdfdesigner_E",
+			"name": "PDF Designer"
+		},
+		{
+			"id": "developmentpackage_E",
+			"name": "Development Package"
+		},
+		{
+			"id": "developmentmedia_E",
+			"name": "Media Library"
+		},
+		{
+			"id": "developmentmarketplace_E",
+			"name": "DXP Marketplace"
+		},
+		{
+			"id": "developmentlayout_E",
+			"name": "Launchpad Layout"
+		},
+		{
+			"id": "developmentjshelpers_E",
+			"name": "Code Snippets"
+		},
+		{
+			"id": "developmenti18n_E",
+			"name": "I18n Text & Translation"
+		},
+		{
+			"id": "developmentfonts_E",
+			"name": "Fonts"
+		},
+		{
+			"id": "developmentemailtemplate_E",
+			"name": "Email Template"
+		},
+		{
+			"id": "developmentdoc_E",
+			"name": "Documentation"
+		},
+		{
+			"id": "developmentdeploytransfer_E",
+			"name": "Deployment Transfer"
+		},
+		{
+			"id": "developmentdeployroutes_E",
+			"name": "Deployment Routes"
+		},
+		{
+			"id": "developmentdeploylog_E",
+			"name": "Deployment Log"
+		},
+		{
+			"id": "developmentdeployapprove_E",
+			"name": "Deployment Approve"
+		},
+		{
+			"id": "developmentdeploy_E",
+			"name": "Deployment Create"
+		},
+		{
+			"id": "developmentcustui5_E",
+			"name": "Custom UI5 Control"
+		},
+		{
+			"id": "developmentcockpit_D",
+			"name": "Cockpit"
+		},
+		{
+			"id": "developmentappdesigner_E",
+			"name": "App Designer"
+		},
+		{
+			"id": "developmentadaptivedesigner_E",
+			"name": "Adaptive Designer"
+		},
+		{
+			"id": "development_E",
+			"name": "Development"
+		},
+		{
+			"id": "designlaunchpaddesigner_E",
+			"name": "Launchpad Designer - Beta"
+		},
+		{
+			"id": "design_E",
+			"name": "Design"
+		},
+		{
+			"id": "deployment_E",
+			"name": "Deployment"
+		},
+		{
+			"id": "connectivityswaggerui_E",
+			"name": "Swagger UI"
+		},
+		{
+			"id": "connectivityodatasource_E",
+			"name": "OData Source"
+		},
+		{
+			"id": "connectivityodatamock_E",
+			"name": "OData Mock Data"
+		},
+		{
+			"id": "connectivityoauthclients_E",
+			"name": "OAuth Clients"
+		},
+		{
+			"id": "connectivityintegrationcardtest_E",
+			"name": "Integration Card Test"
+		},
+		{
+			"id": "connectivityconnector_E",
+			"name": "Connector"
+		},
+		{
+			"id": "connectivitycertificates_E",
+			"name": "Certificates"
+		},
+		{
+			"id": "connectivityauthentication_E",
+			"name": "Proxy Authentication"
+		},
+		{
+			"id": "connectivityapitrace_E",
+			"name": "API Trace"
+		},
+		{
+			"id": "connectivityapigroup_E",
+			"name": "Connectivity Group"
+		},
+		{
+			"id": "connectivityapidesigner_E",
+			"name": "API Designer"
+		},
+		{
+			"id": "connectivityapiclient_E",
+			"name": "API Client"
+		},
+		{
+			"id": "connectivity_E",
+			"name": "Connectivity"
+		},
+		{
+			"id": "aitools_E",
+			"name": "AI Tool"
+		},
+		{
+			"id": "aisapdatasources_E",
+			"name": "SAP Data Sources"
+		},
+		{
+			"id": "aiprompts_E",
+			"name": "Prompts"
+		},
+		{
+			"id": "aimodelhub_E",
+			"name": "Model"
+		},
+		{
+			"id": "aiguardrails_E",
+			"name": "Guardrails"
+		},
+		{
+			"id": "aiagenttrace_E",
+			"name": "Agent Trace"
+		},
+		{
+			"id": "aiagents_E",
+			"name": "Agent"
+		},
+		{
+			"id": "ai_E",
+			"name": "Naia Agent Studio"
+		},
+		{
+			"id": "administration_E",
+			"name": "Administration"
+		}
+	]
+}

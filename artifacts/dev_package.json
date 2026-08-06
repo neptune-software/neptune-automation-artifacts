@@ -124,7 +124,13 @@
 	],
 	"launchpad_layout": [],
 	"certificates": [],
-	"role": [],
+	"role": [
+		{
+			"id": "91eaa2c3-5181-4a44-8070-819298c5da0c",
+			"name": "Neptune-Automation-Role-05-1004",
+			"description": null
+		}
+	],
 	"systems": [
 		{
 			"id": "eb55323f-9e80-4fb3-9cea-d7841d8072c1",
