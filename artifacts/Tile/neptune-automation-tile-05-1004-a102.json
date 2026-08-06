@@ -3,7 +3,7 @@
 	"createdAt": "2026-08-06T20:40:11.770Z",
 	"createdBy": "neptune_bot_agent",
 	"translation": [],
-	"storeItem": null,
+	"storeItem": {},
 	"settings": null,
 	"title": "Neptune Automation Tile - Version 05.1004.A102",
 	"subTitle": null,
@@ -61,7 +61,7 @@
 	"helpTextFormatter": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "26.08.06.2042",
+	"ver": "26.08.06.2046",
 	"actionWebApp": null,
 	"name": "neptune-automation-tile-05-1004-a102",
 	"cardWidth": null,
@@ -91,7 +91,13 @@
 	"imageType": null,
 	"FIORI_STYLE": null,
 	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
-	"roles": [],
+	"roles": [
+		{
+			"id": "ec0ef28b-ce91-f111-b337-000d3a68edad",
+			"name": "Neptune-Automation-Role-05-1004",
+			"ver": "26.08.06.1939"
+		}
+	],
 	"lightTileLayouts": [],
 	"darkTileLayouts": [],
 	"i18n": []
