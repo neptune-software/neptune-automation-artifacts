@@ -221,7 +221,7 @@
 			"locale": "en"
 		}
 	],
-	"name": "NeptuneAutomationLocalization",
+	"name": "AutoLoc",
 	"description": null,
 	"fallbackLocale": "en",
 	"application": null,
