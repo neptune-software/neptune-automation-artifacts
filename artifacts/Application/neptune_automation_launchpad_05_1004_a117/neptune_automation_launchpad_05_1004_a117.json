@@ -1,0 +1,300 @@
+{
+	"id": "090e642c-5f4a-4560-a07c-04cdf37ce423",
+	"createdAt": "2026-08-06T22:16:22.326Z",
+	"createdBy": "neptune_bot_agent",
+	"objects": [
+		{
+			"fieldNo": "bf739802-8296-4bdb-b57e-f2d7873f7974",
+			"fieldName": "footerLayout",
+			"fieldParent": 0,
+			"fieldType": "sap.m.HBox",
+			"script": "",
+			"request": [],
+			"response": [],
+			"attributes": [
+				{
+					"attribute": "fitContainer",
+					"grouping": "Properties",
+					"value": "true",
+					"script": "",
+					"translation": []
+				},
+				{
+					"attribute": "renderType",
+					"grouping": "Properties",
+					"value": "Bare",
+					"script": "",
+					"translation": []
+				},
+				{
+					"attribute": "justifyContent",
+					"grouping": "Properties",
+					"value": "SpaceBetween",
+					"script": "",
+					"translation": []
+				}
+			],
+			"data": [
+				{
+					"fieldNo": "9449cd9d-e612-4138-f959-d12fcb262f01",
+					"fieldName": "boxLeft",
+					"fieldParent": "bf739802-8296-4bdb-b57e-f2d7873f7974",
+					"fieldType": "sap.m.HBox",
+					"script": "",
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "renderType",
+							"grouping": "Properties",
+							"value": "Bare",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": []
+				},
+				{
+					"fieldNo": "ae507762-d5d2-4c97-df9c-859bded42283",
+					"fieldName": "boxMiddle",
+					"fieldParent": "bf739802-8296-4bdb-b57e-f2d7873f7974",
+					"fieldType": "sap.m.HBox",
+					"script": "",
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "renderType",
+							"grouping": "Properties",
+							"value": "Bare",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "7096f2f9-eff7-45de-d5c4-6c7b278bfbc9",
+							"fieldName": "btnLegal",
+							"fieldParent": "ae507762-d5d2-4c97-df9c-859bded42283",
+							"fieldType": "sap.m.Button",
+							"script": "",
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "press",
+									"grouping": "Events",
+									"value": "Anonymous Function",
+									"script": "file://event/sap.m.Button/btnLegal/press.js",
+									"language": "javascript",
+									"translation": []
+								},
+								{
+									"attribute": "text",
+									"grouping": "Properties",
+									"value": "Legal Stuff",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						},
+						{
+							"fieldNo": "c52b608e-94e2-42fd-ba6a-3e749ec140be",
+							"fieldName": "btnPrivacy",
+							"fieldParent": "ae507762-d5d2-4c97-df9c-859bded42283",
+							"fieldType": "sap.m.Button",
+							"script": "",
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "press",
+									"grouping": "Events",
+									"value": "Anonymous Function",
+									"script": "file://event/sap.m.Button/btnPrivacy/press.js",
+									"language": "javascript",
+									"translation": []
+								},
+								{
+									"attribute": "text",
+									"grouping": "Properties",
+									"value": "Privacy Policy",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						},
+						{
+							"fieldNo": "1a01d50d-bf83-4c36-e93f-147b89b8622f",
+							"fieldName": "btnSecurity",
+							"fieldParent": "ae507762-d5d2-4c97-df9c-859bded42283",
+							"fieldType": "sap.m.Button",
+							"script": "",
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "press",
+									"grouping": "Events",
+									"value": "Anonymous Function",
+									"script": "file://event/sap.m.Button/btnSecurity/press.js",
+									"language": "javascript",
+									"translation": []
+								},
+								{
+									"attribute": "text",
+									"grouping": "Properties",
+									"value": "Security",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						},
+						{
+							"fieldNo": "efc93aac-fde6-4d6c-9596-e333afcd2148",
+							"fieldName": "btnAccessibility",
+							"fieldParent": "ae507762-d5d2-4c97-df9c-859bded42283",
+							"fieldType": "sap.m.Button",
+							"script": "",
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "press",
+									"grouping": "Events",
+									"value": "Anonymous Function",
+									"script": "file://event/sap.m.Button/btnAccessibility/press.js",
+									"language": "javascript",
+									"translation": []
+								},
+								{
+									"attribute": "text",
+									"grouping": "Properties",
+									"value": "Accessibility",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						},
+						{
+							"fieldNo": "2f8828a7-5c07-4222-c12b-fcf7653746c5",
+							"fieldName": "btnCookies",
+							"fieldParent": "ae507762-d5d2-4c97-df9c-859bded42283",
+							"fieldType": "sap.m.Button",
+							"script": "",
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "press",
+									"grouping": "Events",
+									"value": "Anonymous Function",
+									"script": "file://event/sap.m.Button/btnCookies/press.js",
+									"language": "javascript",
+									"translation": []
+								},
+								{
+									"attribute": "text",
+									"grouping": "Properties",
+									"value": "Cookies",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						}
+					]
+				},
+				{
+					"fieldNo": "97eeae37-629f-4cfa-bfcc-66e17f056217",
+					"fieldName": "boxRight",
+					"fieldParent": "bf739802-8296-4bdb-b57e-f2d7873f7974",
+					"fieldType": "sap.m.HBox",
+					"script": "",
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "renderType",
+							"grouping": "Properties",
+							"value": "Bare",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": [
+				{
+					"fieldNo": "4de54d6d-58b8-4059-bdbb-5782ca3c136b",
+					"fieldName": "Javascript",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Script",
+					"script": "file://script/neptune.Script/Javascript.js",
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "26.08.06.2216",
+	"application": "neptune_automation_launchpad_05_1004_a117",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_integration": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_horizon",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"compiledCss": null,
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
+	"generateVersionOnActivation": false,
+	"activationHistoryCount": 0,
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"apis": [],
+	"i18n": []
+}
