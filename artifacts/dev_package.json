@@ -17,6 +17,12 @@
 	"accessLevel": "EDIT",
 	"apps": [
 		{
+			"id": "735ed989-0d90-45df-ef71-0e3a6625e1f1",
+			"application": "neptune_automation_codesnippet_01_1007",
+			"title": "",
+			"description": ""
+		},
+		{
 			"id": "08ae6e67-3c6c-4b1a-f5ff-e16603ab58f7",
 			"application": "neptune_automation_app_documentation_a100",
 			"title": "Rockstar",
@@ -140,13 +146,18 @@
 	"connector": [],
 	"i18n": [
 		{
+			"id": "fe246730-f68b-47e8-a3b9-7bcf63d0477e",
+			"name": "neptune_automation_codesnippet_01_1007",
+			"description": null
+		},
+		{
 			"id": "92255d36-6c4c-4e20-8344-cdde38a37681",
 			"name": "neptune_automation_app_documentation_a100",
 			"description": null
 		},
 		{
 			"id": "19da39a9-527a-4001-aae1-0dba624b6772",
-			"name": "NeptuneAutomationLocalization",
+			"name": "AutoLoc",
 			"description": null
 		}
 	],
