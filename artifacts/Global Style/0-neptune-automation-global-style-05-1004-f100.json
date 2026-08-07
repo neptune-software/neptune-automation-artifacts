@@ -1,0 +1,18 @@
+{
+	"id": "30306c04-4492-f111-b337-000d3a68edad",
+	"createdAt": "2026-08-07T09:40:26.516Z",
+	"createdBy": "neptune_bot_agent",
+	"content": [],
+	"name": "0-neptune-automation-global-style-05-1004-f100",
+	"ver": "26.08.07.0941",
+	"description": null,
+	"ui5Theme": null,
+	"stylesheet": null,
+	"calculated": [
+		"==OBJECT STRING==",
+		".nepFCard.sapFCard {",
+		"    background-color: rgb(255, 193, 7) !important;",
+		"    }"
+	],
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792"
+}

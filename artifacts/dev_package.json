@@ -91,7 +91,13 @@
 			"description": "A pre-provisioned script project for use in Guardrail end-to-end testing"
 		}
 	],
-	"theme": [],
+	"theme": [
+		{
+			"id": "30306c04-4492-f111-b337-000d3a68edad",
+			"name": "0-neptune-automation-global-style-05-1004-f100",
+			"description": null
+		}
+	],
 	"theme_generator": [],
 	"pdf": [],
 	"rulesengine": [
