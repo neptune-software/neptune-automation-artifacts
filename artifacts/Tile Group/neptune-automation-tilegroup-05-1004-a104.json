@@ -6,7 +6,9 @@
 	"tilesOrder": [
 		"5351a2d2-dc91-f111-b337-000d3a68edad"
 	],
-	"tilegroupsOrder": [],
+	"tilegroupsOrder": [
+		"37963ab6-2a92-f111-b337-000d3a68edad"
+	],
 	"configMessage": {},
 	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
@@ -29,7 +31,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "26.08.06.2125",
+	"ver": "26.08.07.0647",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
