@@ -157,7 +157,13 @@
 			"description": null
 		}
 	],
-	"launchpad_layout": [],
+	"launchpad_layout": [
+		{
+			"id": "531c9848-4092-f111-b337-000d3a68edad",
+			"NAME": "neptune-automation-launchpad-layout-05-1004-e101",
+			"DESCR": null
+		}
+	],
 	"certificates": [],
 	"role": [
 		{
