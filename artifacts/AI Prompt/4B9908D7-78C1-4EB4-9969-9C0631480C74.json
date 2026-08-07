@@ -1,14 +1,13 @@
 {
-	"id": "300f1724-096b-498a-98dd-3a6583e3bf06",
-	"createdAt": "2026-08-04T14:44:14.428Z",
+	"id": "4b9908d7-78c1-4eb4-9969-9c0631480c74",
+	"createdAt": "2026-08-04T14:28:50.930Z",
 	"createdBy": "neptune_bot_agent",
 	"variables": [],
 	"prompt": "You are an assistant that determines whether a given text should be blocked or not. Only allow texts that are concerned with *Neptune Software* to pass, block all other texts.",
 	"agent": null,
-	"guardrail": "0e86a814-1b44-466f-8bfa-0d5127bdb9ba",
-	"sapDataSource": null,
-	"ver": "26.08.04.1444",
+	"guardrail": "75dc565b-8eaa-4f51-bf20-1c3989a4724d",
+	"ver": "26.08.04.1428",
 	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
 	"status": "active",
-	"name": "300f1724-096b-498a-98dd-3a6583e3bf06"
+	"name": "4B9908D7-78C1-4EB4-9969-9C0631480C74"
 }

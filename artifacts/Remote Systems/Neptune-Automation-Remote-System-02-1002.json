@@ -93,12 +93,6 @@
 			}
 		}
 	],
-	"sapEngineConfig": {
-		"ingestOnlyServices": [],
-		"ingestOnlyBusinessObjects": [],
-		"ingestOnlyFunctionModules": [],
-		"ingestOnlySapEditionApis": []
-	},
 	"url": "https://mcp.api.coingecko.com/mcp",
 	"name": "Neptune-Automation-Remote-System-02-1002",
 	"ver": "26.08.04.1418",

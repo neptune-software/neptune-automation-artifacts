@@ -25,10 +25,6 @@
 		}
 	],
 	"componentInterface": [],
-	"iaSettings": {
-		"denylist": [],
-		"allowlist": []
-	},
 	"ver": "26.08.06.1219",
 	"application": "neptune_automation_codesnippet_01_1007",
 	"title": "",
@@ -49,7 +45,6 @@
 	"ui5_uxap": false,
 	"ui5_integration": false,
 	"ui5_chart": false,
-	"ui5_dxp_ui": false,
 	"ui5_theme": "sap_horizon",
 	"ui5_version": "",
 	"ui5_language": null,
@@ -71,7 +66,6 @@
 	"tabWidth": null,
 	"printWidth": null,
 	"generateVersionOnActivation": false,
-	"enableIntelligence": false,
 	"activationHistoryCount": 0,
 	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
 	"apis": [],

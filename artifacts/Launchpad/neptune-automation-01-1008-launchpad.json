@@ -56,7 +56,6 @@
 	"enableTrace": false,
 	"ver": "26.08.04.1532",
 	"pwa_enable": false,
-	"pwa_title": null,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
 	"pwa_customImageAndroidNew": null,
@@ -73,8 +72,6 @@
 	"noSubmenuHover": false,
 	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
 	"agentId": null,
-	"enableIntelligentApps": null,
-	"iaAgentId": null,
 	"cat": [
 		{
 			"id": "c9d6f715-e94c-4dee-acec-1d4b055cfbee",

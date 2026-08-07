@@ -2,8 +2,6 @@
 	"id": "bce4c442-824a-43c6-8047-b6892670c4e1",
 	"createdAt": "2026-08-05T11:36:00.791Z",
 	"createdBy": "neptune_bot_agent",
-	"cachedCard": null,
-	"supportedTransports": null,
 	"config": {
 		"vectorConfig": {
 			"k": 1,
@@ -42,27 +40,19 @@
 	"ver": "26.08.05.1136",
 	"version": null,
 	"description": null,
-	"enableIntelligentApps": false,
 	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
-	"type": "standard",
 	"model": "5f897be7-92e7-4890-9229-25ea4ffd9063",
-	"sapSystemId": null,
-	"cardUrl": null,
-	"cardFetchedAt": null,
-	"cardSignatureVerified": null,
-	"outboundApiAuthId": null,
 	"localMCPConnections": [],
 	"remoteMCPConnections": [],
 	"roles": [],
 	"tools": [],
 	"tableSources": [],
-	"peersMap": [],
 	"outputGuardrailsMap": [],
 	"inputGuardrailsMap": [],
 	"prompts": [
 		{
 			"id": "b2b2844d-3a3e-423e-9fc1-029985573d00",
-			"name": "b2b2844d-3a3e-423e-9fc1-029985573d00",
+			"name": "B2B2844D-3A3E-423E-9FC1-029985573D00",
 			"ver": "26.08.05.1136"
 		}
 	]

@@ -310,10 +310,6 @@
 		}
 	],
 	"componentInterface": [],
-	"iaSettings": {
-		"denylist": [],
-		"allowlist": []
-	},
 	"ver": "26.08.04.1521",
 	"application": "neptune_automation_app_documentation_a100",
 	"title": "Rockstar",
@@ -334,7 +330,6 @@
 	"ui5_uxap": false,
 	"ui5_integration": false,
 	"ui5_chart": false,
-	"ui5_dxp_ui": false,
 	"ui5_theme": "sap_belize",
 	"ui5_version": "",
 	"ui5_language": "DA",
@@ -356,7 +351,6 @@
 	"tabWidth": null,
 	"printWidth": null,
 	"generateVersionOnActivation": false,
-	"enableIntelligence": false,
 	"activationHistoryCount": 0,
 	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
 	"apis": [],

@@ -8,12 +8,11 @@
 	"name": "neptune_automation_app_documentation_a102",
 	"type": "react",
 	"description": null,
-	"ver": "26.08.04.1524",
 	"onlyRuntime": false,
 	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
 	"roles": [],
 	"runtime": {
-		"id": "0288f904-a006-4043-86e3-924cd647b39b",
+		"id": "0288F904-A006-4043-86E3-924CD647B39B",
 		"createdAt": "2026-08-04T13:13:02.293Z",
 		"page": "",
 		"name": "neptune_automation_app_documentation_a102",

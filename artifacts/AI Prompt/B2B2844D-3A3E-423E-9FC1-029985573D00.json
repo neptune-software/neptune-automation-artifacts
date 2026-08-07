@@ -1,16 +1,15 @@
 {
-	"id": "4f4390f0-dd25-48d7-9065-6d0c3a0ae4de",
-	"createdAt": "2026-08-05T08:12:07.115Z",
+	"id": "b2b2844d-3a3e-423e-9fc1-029985573d00",
+	"createdAt": "2026-08-05T11:36:00.805Z",
 	"createdBy": "neptune_bot_agent",
 	"variables": [
 		"name"
 	],
 	"prompt": "You are an assistant that gives clear and accurate answers to user {{name}}",
-	"agent": "8a5f9087-adc2-4836-a42f-7c5e558e65b2",
+	"agent": "bce4c442-824a-43c6-8047-b6892670c4e1",
 	"guardrail": null,
-	"sapDataSource": null,
-	"ver": "26.08.05.0812",
+	"ver": "26.08.05.1136",
 	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
 	"status": "active",
-	"name": "4f4390f0-dd25-48d7-9065-6d0c3a0ae4de"
+	"name": "B2B2844D-3A3E-423E-9FC1-029985573D00"
 }
