@@ -1,18 +1,16 @@
 {
-	"id": "3ca0ed3d-dd91-f111-b337-000d3a68edad",
-	"createdAt": "2026-08-06T21:24:44.830Z",
+	"id": "be98eb9b-3e92-f111-b337-000d3a68edad",
+	"createdAt": "2026-08-07T09:01:43.713Z",
 	"createdBy": "neptune_bot_agent",
 	"translation": [],
 	"tilesOrder": [
-		"5351a2d2-dc91-f111-b337-000d3a68edad"
+		"93cbce6f-3e92-f111-b337-000d3a68edad"
 	],
-	"tilegroupsOrder": [
-		"738593be-2c92-f111-b337-000d3a68edad"
-	],
+	"tilegroupsOrder": [],
 	"configMessage": {},
 	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
-	"title": "Neptune Automation Tile Group - Version 05.1004.A104",
+	"title": "Neptune Automation Tile Group - Version 05.1004.D100",
 	"subTitle": null,
 	"menuText": null,
 	"description": null,
@@ -31,7 +29,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "26.08.07.0654",
+	"ver": "26.08.07.0902",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -45,7 +43,7 @@
 	"imageMobileHeight": null,
 	"imageTabletHeight": null,
 	"imageHeight": null,
-	"name": "neptune-automation-tilegroup-05-1004-a104",
+	"name": "neptune-automation-tilegroup-05-1004-d100",
 	"cardContentWidth": null,
 	"cardContentAlign": null,
 	"cardPerRow": null,
@@ -100,20 +98,13 @@
 	"darkTileLayouts": [],
 	"tiles": [
 		{
-			"id": "5351a2d2-dc91-f111-b337-000d3a68edad",
-			"name": "neptune-automation-tile-05-1004-a104",
-			"title": "Neptune Automation Tile - Version 05.1004.A104",
-			"ver": "26.08.06.2145"
+			"id": "93cbce6f-3e92-f111-b337-000d3a68edad",
+			"name": "neptune-automation-tile-05-1004-d100",
+			"title": "Neptune Automation Tile - Version 05.1004.D100",
+			"ver": "26.08.07.0900"
 		}
 	],
-	"tilegroups": [
-		{
-			"id": "738593be-2c92-f111-b337-000d3a68edad",
-			"name": "neptune-automation-tilegroup-05-1004-b114",
-			"title": "Neptune Automation Tile Group - Version 05.1004.B114",
-			"ver": "26.08.07.0653"
-		}
-	],
+	"tilegroups": [],
 	"navbarGroups": [],
 	"sidebarGroups": [],
 	"i18n": []
