@@ -85,9 +85,19 @@
 			"description": null
 		},
 		{
+			"id": "6ae2fa07-3194-f111-9b33-000d3a662a9a",
+			"name": "connector_end2end_server_script_1",
+			"description": null
+		},
+		{
 			"id": "581357c1-ec5f-4974-9449-1ccd3e47a1f1",
 			"name": "neptune_automation_ai_tool_a100",
 			"description": ""
+		},
+		{
+			"id": "040ace24-3194-f111-9b33-000d3a662a9a",
+			"name": "connector_end2end_server_script_2",
+			"description": null
 		}
 	],
 	"jsscript_group": [
@@ -95,6 +105,11 @@
 			"id": "cb49ee46-c496-42b9-bac6-4534460fa3e3",
 			"name": "Project_Neptune_Automation_AITool_02_1005",
 			"description": "A pre-provisioned script project for use in AI Tool end-to-end testing"
+		},
+		{
+			"id": "c8022c01-3194-f111-9b33-000d3a662a9a",
+			"name": "Project_Neptune_Automation_Connector_04_1008",
+			"description": ""
 		},
 		{
 			"id": "0d05af5b-4310-45cc-8e18-aa7fe5a13cf9",

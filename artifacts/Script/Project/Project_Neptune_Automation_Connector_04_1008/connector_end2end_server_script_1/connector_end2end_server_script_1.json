@@ -1,0 +1,21 @@
+{
+	"id": "6ae2fa07-3194-f111-9b33-000d3a662a9a",
+	"createdAt": "2026-08-09T20:29:36.600Z",
+	"createdBy": "neptune_bot_agent",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"agents": [],
+	"apis": [],
+	"name": "connector_end2end_server_script_1",
+	"ver": "26.08.09.2030",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "c8022c01-3194-f111-9b33-000d3a662a9a",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792"
+}
