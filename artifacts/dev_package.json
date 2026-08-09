@@ -22,6 +22,12 @@
 			"description": ""
 		},
 		{
+			"id": "df4155b4-e26b-486f-942d-285886266124",
+			"application": "custom_login_end2end_launchpad_h103",
+			"title": "Login - Neptune DXP Open Edition",
+			"description": "Login - Neptune DXP Open Edition"
+		},
+		{
 			"id": "735ed989-0d90-45df-ef71-0e3a6625e1f1",
 			"application": "neptune_automation_codesnippet_01_1007",
 			"title": "",
@@ -216,6 +222,11 @@
 		{
 			"id": "92255d36-6c4c-4e20-8344-cdde38a37681",
 			"name": "neptune_automation_app_documentation_a100",
+			"description": null
+		},
+		{
+			"id": "635ba839-1a94-f111-9b33-000d3a662a9a",
+			"name": "custom_login_end2end_launchpad_h103",
 			"description": null
 		},
 		{

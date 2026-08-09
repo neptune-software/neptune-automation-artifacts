@@ -1,0 +1,35 @@
+:root {
+    --nepSplashLightBackgroundColor: rgb(248, 156, 156);
+    --nepSplashDarkBackgroundColor: rgb(77, 4, 2);
+    --nepLoginBoxBackground: rgb(77, 4, 2);
+}
+:root.nepLogon.nepThemeDark {
+    --nepLoginBoxBackground: rgb(78, 33, 38);
+}
+@media (prefers-color-scheme: dark) {
+    .nepSplashLogin {
+        background-color: var(--nepSplashDarkBackgroundColor);
+    }
+}
+@media (prefers-color-scheme: light) {
+    .nepSplashLogin {
+        background-color: var(--nepSplashLightBackgroundColor);
+    }
+}
+.nepSplashLogin {
+    position:absolute;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    display:none;
+}
+.nepSplash .nepSplashLogin {
+    display:block;
+}
+.nepLogon.nepThemeLight .nepLaunchpadShell > .sapUiGlobalBackgroundImage {
+    background: var(--nepSplashLightBackgroundColor);
+}
+.nepLogon.nepThemeDark .nepLaunchpadShell > .sapUiGlobalBackgroundImage {
+    background: var(--nepSplashDarkBackgroundColor);
+}

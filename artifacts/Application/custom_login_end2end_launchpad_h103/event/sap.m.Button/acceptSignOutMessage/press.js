@@ -1,0 +1,2 @@
+diaSignOutMessage.callback();
+diaSignOutMessage.close();

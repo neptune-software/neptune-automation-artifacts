@@ -1,0 +1,16 @@
+<script type="text/javascript" src="/public/js/LoginTranslation.js?neptune-cache-buster"></script>
+<script type="text/javascript" src="/public/neptune/external/libs/msal.js?neptune-cache-buster" crossorigin="anonymous"></script>
+<link rel="shortcut icon" href="/public/images/connect/favicon.svg?neptune-cache-buster" />
+<script type="text/javascript" src="/public/js/Style-dbg.js?neptune-cache-buster"></script>
+<script>
+    document.documentElement.classList.remove("nepThemeLight","nepThemeDark");
+    document.documentElement.classList.add("nepLogon","nepSplash");
+
+    if (neptune.Style.isDarkModeEnabled && neptune.layout.layoutPreference !== 1 && neptune.layout.layoutPreference !== 3) {
+        document.documentElement.classList.add("nepThemeDark");
+        AppCache.CurrentLayout = neptune.layout.dark;
+    } else {
+        document.documentElement.classList.add("nepThemeLight");
+        AppCache.CurrentLayout = neptune.layout.light;
+    }
+</script>

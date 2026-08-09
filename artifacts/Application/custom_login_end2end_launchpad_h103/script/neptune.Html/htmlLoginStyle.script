@@ -1,0 +1,7 @@
+<style id="LoginStyle">
+    @media (max-width: 450px) {
+        .nepLogonContainer .nepBackdropContainer {
+            margin: 0;
+        }
+    }
+</style>
