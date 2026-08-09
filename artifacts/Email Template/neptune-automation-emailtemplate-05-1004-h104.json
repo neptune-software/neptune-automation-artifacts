@@ -1,0 +1,13 @@
+{
+	"id": "13158ef0-1b94-f111-9b33-000d3a662a9a",
+	"createdAt": "2026-08-09T17:58:35.640Z",
+	"createdBy": "neptune_bot_agent",
+	"translation": null,
+	"name": "neptune-automation-emailtemplate-05-1004-h104",
+	"description": "Neptune Automation Launchpad: Password Reset",
+	"content": null,
+	"ver": "26.08.09.1758",
+	"type": "template",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"i18n": []
+}

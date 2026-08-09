@@ -202,6 +202,11 @@
 			"id": "a74dbdb3-92d8-4b22-a1a0-7878ea6b1940",
 			"name": "neptune-automation-ai-tool-email-template-02-1005",
 			"description": "A Pre-Provisioned Email Template For Use In AI Tool Testing"
+		},
+		{
+			"id": "13158ef0-1b94-f111-9b33-000d3a662a9a",
+			"name": "neptune-automation-emailtemplate-05-1004-h104",
+			"description": "Neptune Automation Launchpad: Password Reset"
 		}
 	],
 	"department": [],
