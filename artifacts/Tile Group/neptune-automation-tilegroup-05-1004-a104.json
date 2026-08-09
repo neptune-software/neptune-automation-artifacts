@@ -7,7 +7,7 @@
 		"5351a2d2-dc91-f111-b337-000d3a68edad"
 	],
 	"tilegroupsOrder": [
-		"738593be-2c92-f111-b337-000d3a68edad"
+		"799342b8-3894-f111-9b33-000d3a662a9a"
 	],
 	"configMessage": {},
 	"navbarGroupOrder": [],
@@ -25,13 +25,13 @@
 	"image": null,
 	"icon": null,
 	"sort": null,
-	"inclFav": false,
+	"inclFav": true,
 	"styleClass": null,
 	"enableScroll": false,
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "26.08.07.0654",
+	"ver": "26.08.09.2211",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -106,14 +106,7 @@
 			"ver": "26.08.06.2145"
 		}
 	],
-	"tilegroups": [
-		{
-			"id": "738593be-2c92-f111-b337-000d3a68edad",
-			"name": "neptune-automation-tilegroup-05-1004-b114",
-			"title": "Neptune Automation Tile Group - Version 05.1004.B114",
-			"ver": "26.08.07.0653"
-		}
-	],
+	"tilegroups": [],
 	"navbarGroups": [],
 	"sidebarGroups": [],
 	"i18n": []
