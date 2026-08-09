@@ -48,6 +48,12 @@
 	],
 	"api": [
 		{
+			"id": "943f26fd-3194-f111-9b33-000d3a662a9a",
+			"name": "neptune-automation-api-04-1008-a102",
+			"description": null,
+			"apiGroup": null
+		},
+		{
 			"id": "8fd678f0-0aed-4370-a804-d96ec4907a43",
 			"name": "neptune-automation-ai-tool-api-02-1005",
 			"description": null,
