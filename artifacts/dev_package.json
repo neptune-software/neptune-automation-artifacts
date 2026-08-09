@@ -58,6 +58,11 @@
 	"odataMock": [],
 	"dictionary": [
 		{
+			"id": "c1c5a43b-2e94-f111-9b33-000d3a662a9a",
+			"name": "neptune_automation_connector_table_04_1008",
+			"description": null
+		},
+		{
 			"id": "08dddcaf-10ec-4ac2-b275-7677753d2a9d",
 			"name": "neptune_automation_vectorized_table",
 			"description": null

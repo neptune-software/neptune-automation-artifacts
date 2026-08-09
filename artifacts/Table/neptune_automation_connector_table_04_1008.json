@@ -1,0 +1,18 @@
+{
+	"id": "c1c5a43b-2e94-f111-9b33-000d3a662a9a",
+	"createdAt": "2026-08-09T20:09:33.300Z",
+	"createdBy": "neptune_bot_agent",
+	"fields": [],
+	"indices": [],
+	"foreignKeys": [],
+	"vectorStoreConfig": {},
+	"name": "neptune_automation_connector_table_04_1008",
+	"description": null,
+	"ver": "26.08.09.2009",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"generationStrategy": "uuid",
+	"rolesRead": [],
+	"rolesWrite": []
+}
