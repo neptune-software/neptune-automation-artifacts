@@ -195,6 +195,11 @@
 	"tilegroup_layout": [],
 	"launchpad": [
 		{
+			"id": "a41819c9-ab95-f111-9b33-000d3a662a9a",
+			"name": "neptune-automation-launchpad-05-1002",
+			"description": null
+		},
+		{
 			"id": "6d8c41ce-704e-4770-b15c-bec0fb7f3809",
 			"name": "neptune-automation-01-1008-launchpad",
 			"description": null
