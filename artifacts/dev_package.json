@@ -48,6 +48,12 @@
 	],
 	"api": [
 		{
+			"id": "ef1bea70-b195-f111-9b33-000d3a662a9a",
+			"name": "neptune-automation-api-tile-05-1002",
+			"description": null,
+			"apiGroup": null
+		},
+		{
 			"id": "943f26fd-3194-f111-9b33-000d3a662a9a",
 			"name": "neptune-automation-api-04-1008-a102",
 			"description": null,
@@ -86,6 +92,11 @@
 			"description": null
 		},
 		{
+			"id": "9c6f89c6-b095-f111-9b33-000d3a662a9a",
+			"name": "integration_card_e100",
+			"description": null
+		},
+		{
 			"id": "81ea1d03-e205-4b27-88a1-64f60a178a6b",
 			"name": "neptune_automation_guardrail_script_a103",
 			"description": null
@@ -99,6 +110,11 @@
 			"id": "581357c1-ec5f-4974-9449-1ccd3e47a1f1",
 			"name": "neptune_automation_ai_tool_a100",
 			"description": ""
+		},
+		{
+			"id": "1370d708-b195-f111-9b33-000d3a662a9a",
+			"name": "highchart_e100",
+			"description": null
 		},
 		{
 			"id": "040ace24-3194-f111-9b33-000d3a662a9a",
@@ -115,6 +131,11 @@
 		{
 			"id": "c8022c01-3194-f111-9b33-000d3a662a9a",
 			"name": "Project_Neptune_Automation_Connector_04_1008",
+			"description": ""
+		},
+		{
+			"id": "a2d41ea4-b095-f111-9b33-000d3a662a9a",
+			"name": "Project_Neptune_Automation_Tile_05_1002",
 			"description": ""
 		},
 		{

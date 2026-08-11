@@ -1,0 +1,21 @@
+{
+	"id": "1370d708-b195-f111-9b33-000d3a662a9a",
+	"createdAt": "2026-08-11T18:18:22.543Z",
+	"createdBy": "playwright",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"agents": [],
+	"apis": [],
+	"name": "highchart_e100",
+	"ver": "26.08.11.1818",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "a2d41ea4-b095-f111-9b33-000d3a662a9a",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792"
+}

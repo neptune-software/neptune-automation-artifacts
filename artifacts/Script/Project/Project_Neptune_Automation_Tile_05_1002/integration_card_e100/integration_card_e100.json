@@ -1,0 +1,21 @@
+{
+	"id": "9c6f89c6-b095-f111-9b33-000d3a662a9a",
+	"createdAt": "2026-08-11T18:16:31.303Z",
+	"createdBy": "playwright",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"agents": [],
+	"apis": [],
+	"name": "integration_card_e100",
+	"ver": "26.08.11.1817",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "a2d41ea4-b095-f111-9b33-000d3a662a9a",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792"
+}
