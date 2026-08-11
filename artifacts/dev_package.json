@@ -166,6 +166,10 @@
 	],
 	"tile_layout": [
 		{
+			"id": "e4df676d-ae95-f111-9b33-000d3a662a9a",
+			"NAME": "neptune-automation-dark-layout-05-1002"
+		},
+		{
 			"id": "b6ba9fd5-ad95-f111-9b33-000d3a662a9a",
 			"NAME": "neptune-automation-light-layout-05-1002"
 		}
