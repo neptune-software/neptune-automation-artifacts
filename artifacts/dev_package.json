@@ -164,7 +164,12 @@
 			"name": "neptune-automation-tile-05-1004-a102"
 		}
 	],
-	"tile_layout": [],
+	"tile_layout": [
+		{
+			"id": "b6ba9fd5-ad95-f111-9b33-000d3a662a9a",
+			"NAME": "neptune-automation-light-layout-05-1002"
+		}
+	],
 	"category": [
 		{
 			"id": "c9d6f715-e94c-4dee-acec-1d4b055cfbee",
