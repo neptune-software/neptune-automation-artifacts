@@ -247,6 +247,11 @@
 			"id": "33ba09d4-2994-f111-9b33-000d3a662a9a",
 			"name": "Neptune-Automation-Role-05-1004-K100",
 			"description": null
+		},
+		{
+			"id": "1dac0ceb-af95-f111-9b33-000d3a662a9a",
+			"name": "Neptune-Automation-Role-Tile-05-1002",
+			"description": null
 		}
 	],
 	"systems": [
