@@ -152,6 +152,11 @@
 	],
 	"theme": [
 		{
+			"id": "3cbe260a-c295-f111-9b33-000d3a662a9a",
+			"name": "05-1002-neptune-automation-style-tile",
+			"description": null
+		},
+		{
 			"id": "30306c04-4492-f111-b337-000d3a68edad",
 			"name": "0-neptune-automation-global-style-05-1004-f100",
 			"description": null

@@ -1,0 +1,18 @@
+{
+	"id": "3cbe260a-c295-f111-9b33-000d3a662a9a",
+	"createdAt": "2026-08-11T20:20:06.193Z",
+	"createdBy": "playwright",
+	"content": [],
+	"name": "05-1002-neptune-automation-style-tile",
+	"ver": "26.08.11.2021",
+	"description": null,
+	"ui5Theme": null,
+	"stylesheet": null,
+	"calculated": [
+		"==OBJECT STRING==",
+		"end2end-tile-globalstyle {",
+		"    background-color: rgb(255, 215, 0);",
+		"}"
+	],
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792"
+}
