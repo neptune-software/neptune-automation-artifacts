@@ -4,13 +4,13 @@
 	"createdBy": "playwright",
 	"content": [],
 	"name": "05-1002-neptune-automation-style-tile",
-	"ver": "26.08.11.2021",
+	"ver": "26.08.11.2030",
 	"description": null,
 	"ui5Theme": null,
 	"stylesheet": null,
 	"calculated": [
 		"==OBJECT STRING==",
-		"end2end-tile-globalstyle {",
+		".end2end-tile-globalstyle {",
 		"    background-color: rgb(255, 215, 0);",
 		"}"
 	],
