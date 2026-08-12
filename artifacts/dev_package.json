@@ -263,7 +263,12 @@
 			"name": "neptune-automation-tilegroup-05-1002-02"
 		}
 	],
-	"tilegroup_layout": [],
+	"tilegroup_layout": [
+		{
+			"id": "205420aa-4596-f111-9b33-000d3a662a9a",
+			"NAME": "neptune-automation-tilegroup-lightlayout-05-1003"
+		}
+	],
 	"launchpad": [
 		{
 			"id": "a41819c9-ab95-f111-9b33-000d3a662a9a",
