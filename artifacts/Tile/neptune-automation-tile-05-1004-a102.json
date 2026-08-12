@@ -61,7 +61,7 @@
 	"helpTextFormatter": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "26.08.06.2104",
+	"ver": "26.08.12.1921",
 	"actionWebApp": null,
 	"name": "neptune-automation-tile-05-1004-a102",
 	"cardWidth": null,
@@ -91,13 +91,7 @@
 	"imageType": null,
 	"FIORI_STYLE": null,
 	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
-	"roles": [
-		{
-			"id": "ec0ef28b-ce91-f111-b337-000d3a68edad",
-			"name": "Neptune-Automation-Role-05-1004",
-			"ver": "26.08.06.1939"
-		}
-	],
+	"roles": [],
 	"lightTileLayouts": [],
 	"darkTileLayouts": [],
 	"i18n": []
