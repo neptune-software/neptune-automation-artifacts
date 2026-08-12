@@ -265,6 +265,10 @@
 	],
 	"tilegroup_layout": [
 		{
+			"id": "48f06f12-4796-f111-9b33-000d3a662a9a",
+			"NAME": "neptune-automation-tilegroup-darklayout-05-1003"
+		},
+		{
 			"id": "205420aa-4596-f111-9b33-000d3a662a9a",
 			"NAME": "neptune-automation-tilegroup-lightlayout-05-1003"
 		}
