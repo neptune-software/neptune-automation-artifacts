@@ -300,6 +300,11 @@
 	"certificates": [],
 	"role": [
 		{
+			"id": "fc648bec-4796-f111-9b33-000d3a662a9a",
+			"name": "Neptune-Automation-Role-05-1003-D100",
+			"description": null
+		},
+		{
 			"id": "ec0ef28b-ce91-f111-b337-000d3a68edad",
 			"name": "Neptune-Automation-Role-05-1004",
 			"description": null
