@@ -1,0 +1,13 @@
+{
+	"id": "307bb420-3296-f111-9b33-000d3a662a9a",
+	"createdAt": "2026-08-12T09:42:27.673Z",
+	"createdBy": "neptune_bot_agent",
+	"content": [],
+	"name": "05-1003-neptune-automation-globalstyle",
+	"ver": "26.08.12.0942",
+	"description": null,
+	"ui5Theme": null,
+	"stylesheet": null,
+	"calculated": ".tile-group-red-background{ background-color: red; }",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792"
+}
