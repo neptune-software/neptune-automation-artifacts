@@ -29,7 +29,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "26.08.06.2116",
+	"ver": "26.08.17.1632",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -101,7 +101,7 @@
 			"id": "3771a804-d791-f111-b337-000d3a68edad",
 			"name": "neptune-automation-tile-05-1004-a102",
 			"title": "Neptune Automation Tile - Version 05.1004.A102",
-			"ver": "26.08.06.2104"
+			"ver": "26.08.17.1623"
 		}
 	],
 	"tilegroups": [],
