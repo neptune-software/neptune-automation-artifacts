@@ -3,7 +3,9 @@
 	"createdAt": "2026-08-11T18:05:44.330Z",
 	"createdBy": "playwright",
 	"translation": [],
-	"tilesOrder": [],
+	"tilesOrder": [
+		"c28cb9f0-3eeb-4ea8-86a6-adff1135306b"
+	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
 	"navbarGroupOrder": [],
@@ -27,7 +29,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "26.08.11.1806",
+	"ver": "26.08.25.0819",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -94,7 +96,14 @@
 	"darkGroupLayouts": [],
 	"lightTileLayouts": [],
 	"darkTileLayouts": [],
-	"tiles": [],
+	"tiles": [
+		{
+			"id": "c28cb9f0-3eeb-4ea8-86a6-adff1135306b",
+			"name": "neptune-automation-tile-05-1002-c102",
+			"title": "Neptune Automation Tile - Version 05.1004.A102",
+			"ver": "26.08.25.0819"
+		}
+	],
 	"tilegroups": [],
 	"navbarGroups": [],
 	"sidebarGroups": [],

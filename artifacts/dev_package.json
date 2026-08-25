@@ -14,6 +14,7 @@
 	"oeVersion": null,
 	"excludeTemplateFiles": true,
 	"roles": [],
+	"accessLevel": "EDIT",
 	"apps": [
 		{
 			"id": "fc8f73c4-549d-439d-a382-65413f2bc36f",
@@ -189,6 +190,11 @@
 			"id": "cceef31a-2196-f111-9b33-000d3a662a9a",
 			"description": null,
 			"name": "neptune-automation-tile-05-1003-a104"
+		},
+		{
+			"id": "c28cb9f0-3eeb-4ea8-86a6-adff1135306b",
+			"description": null,
+			"name": "neptune-automation-tile-05-1002-c102"
 		},
 		{
 			"id": "b819575c-3396-f111-9b33-000d3a662a9a",
@@ -422,32 +428,32 @@
 		{
 			"id": "c2c676f5-cc4d-4892-a939-59135989262a",
 			"agent": null,
-			"guardrail": "75DC565B-8EAA-4F51-BF20-1C3989A4724D",
-			"name": "C2C676F5-CC4D-4892-A939-59135989262A"
+			"guardrail": "75dc565b-8eaa-4f51-bf20-1c3989a4724d",
+			"name": "c2c676f5-cc4d-4892-a939-59135989262a"
 		},
 		{
 			"id": "b2b2844d-3a3e-423e-9fc1-029985573d00",
-			"agent": "BCE4C442-824A-43C6-8047-B6892670C4E1",
+			"agent": "bce4c442-824a-43c6-8047-b6892670c4e1",
 			"guardrail": null,
-			"name": "B2B2844D-3A3E-423E-9FC1-029985573D00"
+			"name": "b2b2844d-3a3e-423e-9fc1-029985573d00"
 		},
 		{
 			"id": "4f4390f0-dd25-48d7-9065-6d0c3a0ae4de",
-			"agent": "8A5F9087-ADC2-4836-A42F-7C5E558E65B2",
+			"agent": "8a5f9087-adc2-4836-a42f-7c5e558e65b2",
 			"guardrail": null,
-			"name": "4F4390F0-DD25-48D7-9065-6D0C3A0AE4DE"
+			"name": "4f4390f0-dd25-48d7-9065-6d0c3a0ae4de"
 		},
 		{
 			"id": "4b9908d7-78c1-4eb4-9969-9c0631480c74",
 			"agent": null,
-			"guardrail": "75DC565B-8EAA-4F51-BF20-1C3989A4724D",
-			"name": "4B9908D7-78C1-4EB4-9969-9C0631480C74"
+			"guardrail": "75dc565b-8eaa-4f51-bf20-1c3989a4724d",
+			"name": "4b9908d7-78c1-4eb4-9969-9c0631480c74"
 		},
 		{
 			"id": "300f1724-096b-498a-98dd-3a6583e3bf06",
 			"agent": null,
-			"guardrail": "0E86A814-1B44-466F-8BFA-0D5127BDB9BA",
-			"name": "300F1724-096B-498A-98DD-3A6583E3BF06"
+			"guardrail": "0e86a814-1b44-466f-8bfa-0d5127bdb9ba",
+			"name": "300f1724-096b-498a-98dd-3a6583e3bf06"
 		}
 	],
 	"ai_tool": [],
@@ -464,5 +470,8 @@
 		}
 	],
 	"path_rewrite": [],
-	"vault": []
+	"font": [],
+	"vault": [],
+	"workflow": [],
+	"workflow_logs": []
 }
