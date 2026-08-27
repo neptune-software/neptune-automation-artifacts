@@ -1,0 +1,21 @@
+{
+	"id": "b3a053f1-b49a-430c-bf30-954ff0eba2e0",
+	"createdAt": "2026-08-26T15:10:13.851Z",
+	"createdBy": "neptune_bot_agent",
+	"config": {
+		"apiKey": "7128422942868df22a59c3de5294660917140779e406a9646569697c981bc1d51a23d143349793de2845529d68f6ea26fdefccc11a960b183e0fba90ed1c6c12f2ad623c7beafaef1c8e8934de17f11abd719323f8b4271b289fa7fec45717c44549c5cf9a20d746f2e015d47f06a91216e921922c019e38affcd6a0eb0dae613e2a93be58fff61bc7665c98da4d739df059187e2c02e99a492cc8fd8a7003fb03c04532",
+		"baseURL": "https://api.openai.com/v1",
+		"model": "gpt-4.1-mini",
+		"accessKeyId": "",
+		"secretAccessKey": ""
+	},
+	"name": "neptune-automation-openai-model",
+	"type": "openai",
+	"ver": "26.08.26.1510",
+	"version": null,
+	"description": "gpt-4o-mini",
+	"inputType": "text",
+	"outputType": "text",
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"roles": []
+}

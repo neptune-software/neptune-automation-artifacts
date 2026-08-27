@@ -419,6 +419,11 @@
 	],
 	"ai_model": [
 		{
+			"id": "b3a053f1-b49a-430c-bf30-954ff0eba2e0",
+			"name": "neptune-automation-openai-model",
+			"description": "gpt-4o-mini"
+		},
+		{
 			"id": "5f897be7-92e7-4890-9229-25ea4ffd9063",
 			"name": "End2End-Gemini",
 			"description": "100 Free calls"
