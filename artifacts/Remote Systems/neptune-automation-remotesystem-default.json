@@ -1,0 +1,32 @@
+{
+	"id": "1be6ec57-6c06-40f2-b3a6-c660158d14c1",
+	"createdAt": "2026-09-10T18:37:21.622Z",
+	"createdBy": "neptune_bot_agent",
+	"auth": [],
+	"endpoints": [],
+	"mcpToolMetadata": null,
+	"sapEngineConfig": {
+		"ingestOnlyServices": [],
+		"ingestOnlyBusinessObjects": [],
+		"ingestOnlyFunctionModules": [],
+		"ingestOnlySapEditionApis": [],
+		"ingestOnlyIntegrationHubApis": []
+	},
+	"url": "https://p9latest.neptune-software.cloud",
+	"name": "neptune-automation-remotesystem-default",
+	"ver": "26.09.10.2026",
+	"description": null,
+	"role": null,
+	"username": "",
+	"password": "",
+	"type": "",
+	"sapClient": null,
+	"useClientDeploy": false,
+	"token": "673a253152ae84b6067be7e042837e5e1b12213c9b09b61a53497f28e428dbf40756ca0d60a59bfc0f59639810cfb85ea794ffa8668037653f0684ac9e38497bb298460955e89b8c5b80ba30b80af36cf84aad598a97011c2c98bbc8a55c16a04c61ced1dc73b021afc832df781b801030f4239c6b77bd6eec90e6b4bb14aa7a022cc2b41edbd300991b4ed9806d648bf14b4b4d021ec9e47b15f594bc4409e302ee482217f4955b9fad21638925973c8e43faea2a10a85077755abec1c0d5ba16235aba8e3d6477ca7d79682e96578571686f33f452163b77fd5d287fd8b9b0b42331f93bb84d8e9813886409768381ebba636d0c68c37366",
+	"monitoringName": null,
+	"monitoringEnabled": false,
+	"tlsAllowUntrusted": false,
+	"preRequestHookId": null,
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"mcpProtocol": null
+}
