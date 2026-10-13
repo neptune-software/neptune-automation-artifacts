@@ -1,0 +1,152 @@
+{
+	"id": "51921b38-1dc7-f111-bf5b-000d3a68e510",
+	"createdAt": "2026-10-13T15:46:14.493Z",
+	"createdBy": "neptune_bot_agent",
+	"extUserRoles": [],
+	"extUserDepartments": [],
+	"catOrder": [
+		"c87c835d-30a8-f011-8e61-000d3ab674a1",
+		"8eff080a-55ab-f011-8e61-000d3ab674a1",
+		"5c410a46-3ca0-f011-b3cd-000d3ab9d08b",
+		"0838ec86-86a2-f011-b3cd-000d3ab9d08b",
+		"f404fe2e-8ba2-f011-b3cd-000d3ab9d08b",
+		"cac1bd43-76a3-f011-b3cd-000d3ab9d08b",
+		"90840cff-07a5-f011-b3cd-000d3ab9d08b",
+		"a7fb9d68-f7b3-f011-8e61-002248995116"
+	],
+	"layout": [],
+	"config": {
+		"showAccessibilityFocusIndicator": true,
+		"enableTopMenu": true,
+		"noSubmenuHover": true,
+		"pincodeTries": 5,
+		"pincodeLength": 4,
+		"pincodeKeyIterations": 40000,
+		"languages": [],
+		"locales": [],
+		"enhancement": "",
+		"autolock": 0,
+		"pincode": true,
+		"enableWebAuth": true,
+		"agentIconSrc": "sap-icon://fas/robot",
+		"agentText": "Neptune QA Autobot"
+	},
+	"enhancement": [],
+	"name": "neptune-automation-pwa-launchpad",
+	"title": "Neptune QA Regression Launchpad",
+	"description": null,
+	"startApp": "",
+	"launchpadFooter": null,
+	"startWebApp": null,
+	"customLogo": "/media/root/spiderman-bg.png",
+	"launchpadApp": "",
+	"hideSidemenu": false,
+	"ui5Version": "",
+	"ui5Url": null,
+	"ui5Theme": "sap_horizon",
+	"header": null,
+	"customTheme": null,
+	"isExternal": false,
+	"emailPattern": null,
+	"loginApp": null,
+	"enableNotifications": false,
+	"firebaseProjectId": null,
+	"firebaseAppId": null,
+	"defaultLoginIDP": null,
+	"publicAccess": false,
+	"css": null,
+	"clientRequestTimeout": 120,
+	"limitWidth": false,
+	"searchBackgroundType": null,
+	"searchBackgroundColor": null,
+	"searchBackgroundShade": null,
+	"usedBackgroundType": null,
+	"usedBackgroundColor": null,
+	"usedBackgroundShade": null,
+	"searchEnableShadeCalc": null,
+	"usedEnableShadeCalc": null,
+	"enableTrace": false,
+	"ver": "26.10.13.1546",
+	"pwa_enable": true,
+	"pwa_customImageIos": null,
+	"pwa_customImageAndroidOld": null,
+	"pwa_customImageAndroidNew": null,
+	"pwa_desktopScreenshotWide": "/media/root/super-mario-logo-512.png",
+	"pwa_desktopScreenshotNarrow": null,
+	"pwa_displayMode": null,
+	"pwa_themeColor": "rgb(255,255,255)",
+	"layout_light": null,
+	"layout_dark": null,
+	"layout_preference": 0,
+	"pwa_backgroundColor": "rgb(255,255,255)",
+	"passwordResetEmail": null,
+	"activationCodeEmail": null,
+	"noSubmenuHover": false,
+	"package": "054bca26-bdd3-4b4f-9193-f11b0b0fe792",
+	"agentId": "4393f08d-9ead-f011-8e61-000d3ab674a1",
+	"cat": [
+		{
+			"id": "f404fe2e-8ba2-f011-b3cd-000d3ab9d08b",
+			"name": "letters_multicolumn",
+			"title": "MULTI-COLUMN LETTERS",
+			"ver": "26.10.13.1103"
+		},
+		{
+			"id": "cac1bd43-76a3-f011-b3cd-000d3ab9d08b",
+			"name": "Tree of Tile groups",
+			"title": "TREE OF TILE GROUPS",
+			"ver": "26.10.13.1113"
+		},
+		{
+			"id": "c87c835d-30a8-f011-8e61-000d3ab674a1",
+			"name": "Clickable Tile - Collection ",
+			"title": "CLICKABLE TILE COLLECTION",
+			"ver": "26.10.13.1121"
+		},
+		{
+			"id": "a7fb9d68-f7b3-f011-8e61-002248995116",
+			"name": "IVANA i18n_tile group for Launchpad",
+			"title": "{i18n.p9newQA>title}",
+			"ver": "26.01.30.0957"
+		},
+		{
+			"id": "90840cff-07a5-f011-b3cd-000d3ab9d08b",
+			"name": "Tile Group Layout_QA Home",
+			"title": "Tile Group Layout_QA Home",
+			"ver": "26.10.13.1122"
+		},
+		{
+			"id": "8eff080a-55ab-f011-8e61-000d3ab674a1",
+			"name": " i18n Collection ",
+			"title": "I18N COLLECTION",
+			"ver": "26.10.13.1334"
+		},
+		{
+			"id": "5c410a46-3ca0-f011-b3cd-000d3ab9d08b",
+			"name": "i2 Tile Layout - Dark and Light",
+			"title": "TILE LAYOUT - DARK AND LIGHT",
+			"ver": "26.10.13.1105"
+		},
+		{
+			"id": "0838ec86-86a2-f011-b3cd-000d3ab9d08b",
+			"name": "Quality letters",
+			"title": "QUALITY LETTERS",
+			"ver": "26.10.13.1101"
+		}
+	],
+	"roles": [],
+	"i18n": [
+		{
+			"id": "f5f63dcf-3b96-42f1-87f7-622c3ee60af3",
+			"name": "p9newQA",
+			"application": null,
+			"ver": "26.01.30.1049"
+		},
+		{
+			"id": "e5586b27-f5b3-f011-8e61-002248995116",
+			"name": "QA_Launchpad_Regression",
+			"application": null,
+			"ver": "25.11.04.1059"
+		}
+	]
+}
